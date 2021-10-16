@@ -4,6 +4,15 @@
 
 This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons. 
 
+## Synopsis
+
+Introduction to FAIR data management practices. 
+
+## Learning Outcomes
+
+* Demonstrate ability to use the Hawaii Climate Data Portal, Ike Wai Gateway and Hydroshare for data annotation and dissemination while applying FAIR principles and practices in basic data security and ethics. 
+* CI Tools: GeoEDF, Hydroshare,GitHub, FigShare, Zenodo
+
 ## Contributing
 
 We welcome all contributions to improve the lesson! Maintainers will do their best to help you if you have any
