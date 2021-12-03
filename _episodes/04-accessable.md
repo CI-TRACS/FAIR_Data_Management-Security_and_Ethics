@@ -1,5 +1,5 @@
 ---
-title: "Findable"
+title: "Accessable"
 teaching: 0
 exercises: 0
 questions:
