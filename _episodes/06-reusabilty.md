@@ -1,5 +1,5 @@
 ---
-title: "Interoperable"
+title: "Reusable"
 teaching: 0
 exercises: 0
 questions:
