@@ -1,5 +1,5 @@
 ---
-title: "Repositories"
+title: "Findable"
 teaching: 0
 exercises: 0
 questions:
