@@ -65,7 +65,7 @@ Open Science is the movement to increase transparency and reproducibility of res
 the open best practices.
 
 
-![Figure 1. Open Science Building Blocks](../fig/OpenScienceBuildingBlocks.jpg)
+![Figure 1. Open Science Building Blocks](fig/OpenScienceBuildingBlocks.jpeg)
 
 *After [Gema Bueno de la Fuente](https://www.fosteropenscience.eu/content/what-open-science-introduction)*
 
