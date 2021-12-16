@@ -1,5 +1,5 @@
 ---
-title: "Conclusions"
+title: "Ethics"
 teaching: 0
 exercises: 0
 questions:
