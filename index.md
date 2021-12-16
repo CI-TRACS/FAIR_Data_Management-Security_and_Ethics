@@ -10,8 +10,9 @@ FIXME: home page introduction
 {% comment %} This is a comment in Liquid {% endcomment %}
 
 > ## Prerequisites
->
-> FIXME
+> Modern web browser
+> Hydroshare account
+
 {: .prereq}
 
 {% include links.md %}
