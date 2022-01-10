@@ -6,11 +6,11 @@ This repository generates the corresponding lesson website from [The Carpentries
 
 ## Synopsis
 
-Introduction to FAIR data management practices. 
+This workshop focuses on introducing FAIR data management practices -- FAIR stands for Findability, Accessibility, Interoperability, and Reusability. Attendees will learn how to incorporate these concepts into data management, additionally the seminar will address data security and ethics. 
 
 ## Learning Outcomes
 
-* Demonstrate ability to use the Hawaii Climate Data Portal, Ike Wai Gateway and Hydroshare for data annotation and dissemination while applying FAIR principles and practices in basic data security and ethics. 
+* Demonstrate ability to use the Hawaii Climate Data Portal, Ike Wai Gateway, and Hydroshare for data annotation and dissemination while applying FAIR principles and practices in basic data security and ethics. 
 * CI Tools: GeoEDF, Hydroshare,GitHub, FigShare, Zenodo
 
 ## Contributing
