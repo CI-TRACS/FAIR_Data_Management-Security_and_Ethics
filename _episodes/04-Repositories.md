@@ -40,7 +40,7 @@ assure Findability and Accessibility.
 > ## Exercise 1: Public general record (8 min)
 > 
 > Have a look at the following record for data set in Hydroshare repository:
-> (http://www.hydroshare.org/resource/96310f82dd5247ba8201955750093923)
+> [Hydroshare](http://www.hydroshare.org/resource/96310f82dd5247ba8201955750093923).
 > What elements make it FAIR?    
 >   
 > > ## Solution  
