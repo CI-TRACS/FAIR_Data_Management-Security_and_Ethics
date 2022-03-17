@@ -38,6 +38,7 @@ Research data repositories are a key resource to help in data FAIRification as t
 assure Findability and Accessibility.
 
 > ## Exercise 1: Public general record (8 min)
+> [![DOI](http://www.hydroshare.org/resource/96310f82dd5247ba8201955750093923)]
 > Have a look at the following record for data set in Zenodo repository:
 > [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5045374.svg)](https://doi.org/10.5281/zenodo.5045374)  
 > What elements make it FAIR?    
@@ -74,7 +75,7 @@ assure Findability and Accessibility.
 > ## Exercise 2: Datasets discovery (5 min)  
 >  
 > Try to find either: 
-> * similar data sets in Zenodo
+> * similar data sets in Hydroshare
 > * data sets of interest for you
 >   
 > Hint 1: Verify the completeness/richness of the associated metadata. Is it complete? Are some bits missing?   
