@@ -31,6 +31,7 @@ Or domain specific, for example:
 * [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) sequence data,
 * [MetaboLights](https://www.ebi.ac.uk/metabolights/) metabolomics data
 * [GitHub](https://github.com/) for code.
+* [Hydroshare](https://www.hydroshare.org/) for water data.
  
 Research outputs should be submitted to discipline/domain-specific repositories whenever it is possible. When such a resource does not exist, data should be submitted to a 'general' repository.
 Research data repositories are a key resource to help in data FAIRification as they
