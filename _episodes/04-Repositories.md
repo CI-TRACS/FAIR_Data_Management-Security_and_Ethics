@@ -38,9 +38,9 @@ Research data repositories are a key resource to help in data FAIRification as t
 assure Findability and Accessibility.
 
 > ## Exercise 1: Public general record (8 min)
-> [![DOI](http://www.hydroshare.org/resource/96310f82dd5247ba8201955750093923)]
-> Have a look at the following record for data set in Zenodo repository:
-> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5045374.svg)](https://doi.org/10.5281/zenodo.5045374)  
+> 
+> Have a look at the following record for data set in Hydroshare repository:
+> (http://www.hydroshare.org/resource/96310f82dd5247ba8201955750093923)
 > What elements make it FAIR?    
 >   
 > > ## Solution  
