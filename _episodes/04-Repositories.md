@@ -82,7 +82,7 @@ assure Findability and Accessibility.
 > Hint 2: Does the dataset include a ReadMe.txt file?   
 >  
 > > ## Solution
-> > Zenodo is a good place to keep your data separate from paper. It gives access to all files, allowing you to cite the data as well (or instead of) the paper.  
+> > Hydroshare is a good place to keep your data separate from paper. It gives access to all files, allowing you to cite the data as well (or instead of) the paper.  
 > > However, it is not good for disovery, and does not enforce most metadata!  
 > >   
 > {: .solution}
