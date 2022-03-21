@@ -63,29 +63,18 @@ In this workshop we will show you how you can plan and do your research
 in a way that makes your outputs readily available for re-use by others.
 
 Our agenda:
-* **Day 1**
-We will start with explaining Open Science principles and what
-the benefits are of being open for you and society.
-Then we will talk about FAIR principles which define steps you/we should take
-so that our "shared" outputs are of value.
-We will finish with a brief introduction to metadata and ontologies, and how to 
-be precise to deliver FAIR outputs.
-* **Day 2**
-We will show you how to use metadata in Excel, and the benefits of using online 
-records for documenting experiments.
-We will talk about working and organizing files and appropriate file naming conventions 
-using Excel or CSV tables to store and document data.
-* **Day 3**
-We will show you how public repositories make your outputs accessible and reusable.
-We will introduce Jupyter notebooks as a tool for reusable data analysis.
-We will teach how to describe your projects using simple text files or customized templates.
-
-* **Day 4**
+* **Seminar**
+Explain Open Science principles and what the benefits are of being open for you and society.
+Talk about FAIR principles which define steps you/we should take so that our "shared" outputs are of value.
+A brief introduction to metadata and ontologies, and how to be precise to deliver FAIR outputs.
+Examples of how public repositories make  outputs accessible and reusable other tools can help you during your research.
 We will talk about Version Control.
 We will consolidate our knowledge of FAIR ready data management and what
-other tools can help you during your research.
 
-
+* **Exercises**
+How to use metadata in Hydroshare, and the benefits of using online records for documenting experiments.
+We will talk about working and organizing files and appropriate file naming conventions using Excel or CSV tables to store and document data.
+We will teach how to describe your projects using simple text files or customized templates.
 
 
 ## Online workshop specifics
