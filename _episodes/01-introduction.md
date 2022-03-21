@@ -49,7 +49,7 @@ is our bad timing and lack of planning.
 
 **Data management is a continuous process**
 
-![Figure 5.2. Sharing as part of the workflow](../fig/01-sharing_as_part_of_workflow.jpg)
+![Figure 5.2. Sharing as part of the workflow](../fig/01-sharing_as_part_of_workflow.jpeg)
 *Figure credits: Tomasz Zielinski and Andrés Romanowski*
 
 When should you engage in data sharing and open practices?
