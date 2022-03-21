@@ -64,17 +64,17 @@ in a way that makes your outputs readily available for re-use by others.
 
 Our agenda:
 * **Seminar**
-Explain Open Science principles and what the benefits are of being open for you and society.
-Talk about FAIR principles which define steps you/we should take so that our "shared" outputs are of value.
-A brief introduction to metadata and ontologies, and how to be precise to deliver FAIR outputs.
-Examples of how public repositories make  outputs accessible and reusable other tools can help you during your research.
-We will talk about Version Control.
-We will consolidate our knowledge of FAIR ready data management and what
+- Explain Open Science principles and what the benefits are of being open for you and society.
+- Talk about FAIR principles which define steps you/we should take so that our "shared" outputs are of value.
+- A brief introduction to metadata and ontologies, and how to be precise to deliver FAIR outputs.
+- Examples of how public repositories make  outputs accessible and reusable other tools can help you during your research.
+- We will talk about Version Control.
+- We will consolidate our knowledge of FAIR ready data management and what
 
 * **Exercises**
-How to use metadata in Hydroshare, and the benefits of using online records for documenting experiments.
-We will talk about working and organizing files and appropriate file naming conventions using Excel or CSV tables to store and document data.
-We will teach how to describe your projects using simple text files or customized templates.
+- How to use metadata in Hydroshare, and the benefits of using online records for documenting experiments.
+- We will talk about working and organizing files and appropriate file naming conventions using Excel or CSV tables to store and document data.
+- We will teach how to describe your projects using simple text files or customized templates.
 
 
 ## Online workshop specifics
