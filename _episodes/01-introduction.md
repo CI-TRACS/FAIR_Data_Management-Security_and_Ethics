@@ -17,8 +17,8 @@ keypoints:
 ## Introductions
 
 > Introductions set the stage for learning.
-> --- Sean Cleveland, Cyberinfrastructure Scientist, The University of Hawai'i Cyberinfrastructure & Hawaii Data Science Institute
-> --- Bjarne Bartlett, CI-TRACS Data Science Fellow, The University of Hawai'i Cyberinfrastructure & Hawaii Data Science Institute
+> - Sean Cleveland, Cyberinfrastructure Scientist, The University of Hawai'i Cyberinfrastructure & Hawaii Data Science Institute
+> - Bjarne Bartlett, CI-TRACS Data Science Fellow, The University of Hawai'i Cyberinfrastructure & Hawaii Data Science Institute
 {: .testimonial}
 
 Hello everyone, and welcome to the **FAIR in biological practice** workshop.
