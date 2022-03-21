@@ -6,7 +6,7 @@ questions:
 - "Who are we and what are we going to learn?"
 objectives:
 - "Introduce ourselves and the course"
-- "Setup our learning platform"
+- "Setup Hydroshare our example FAIR data platform"
 - "Better research by better sharing"
 keypoints:
 - "Do not be shy"
@@ -17,8 +17,8 @@ keypoints:
 ## Introductions
 
 > Introductions set the stage for learning.
->
-> --- Tracy Teal, Former Executive Director, The Carpentries
+> --- Sean Cleveland, Cyberinfrastructure Scientist, The University of Hawai'i Cyberinfrastructure & Hawaii Data Science Institute
+> --- Bjarne Bartlett, CI-TRACS Data Science Fellow, The University of Hawai'i Cyberinfrastructure & Hawaii Data Science Institute
 {: .testimonial}
 
 Hello everyone, and welcome to the **FAIR in biological practice** workshop.
