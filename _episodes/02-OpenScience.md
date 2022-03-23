@@ -227,35 +227,6 @@ Large UK funding bodies such as The Wellcome Trust are big supporters of Open Sc
 We can see with the example of Open Access, that once enforced by funders (*the stick*)
 there is a wide adoption. But what about the personal motivators, *the carrots*.
 
-> ## Exercise 2: Personal benefits of being "open" (4 min)
->
-> Below are some personal benefits to adopting Open Science practices.
-> Read through them which of them are the strongest motivators for you.
-> Select two the most important/attractive for you and mark them with +1,
-> select the two least important for you and mark them with 0
->
-> * receive higher citations
-> * complying with funders’ policies
-> * get extra value from your work (e.g. collaborators, reuse by modellers, ML specialists)
-> * demonstrate research impact
-> * save own time (reproducibility but also communication overhead)
-> * become pioneers
-> * distinguish yourself from the crowd
-> * plan successful research proposals
-> * gain valuable experience
-> * form community
-> * increased speed and/or ease of writing papers
-> * speed up and help with peer review
-> * build reputation and presence in the science community
-> * evidence of your scientific rigour and work ethic
-> * avoid embarrassment/disaster when you cannot reproduce your results
->
-> Can you think of other benefits?
-> How personal benefits of Open Science compare to the benefits
-> for the (scientific) society?
->
-{: .discussion}
-
 (3 min teaching)
 
 The main difference between the public benefits of Open Science practices
