@@ -66,7 +66,7 @@ keypoints:
 > the right way, patenting an algorithm is possible. 
 > For example, a deep learning algorithm generating a certain kind of 
 > audio may be eligible. But that would not prevent the network from 
-> being applied to any other problem.
+> being applied to any other problem.*
 > 
 > However, how data are collated and presented
 > (especially if it is a database),
