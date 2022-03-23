@@ -78,7 +78,8 @@ keypoints:
 > better lawyers.
 >
 > After:
-> [USPTO](https://www.uspto.gov/patents/basics)
+> 
+> [https://www.uspto.gov/patents/basics](https://www.uspto.gov/patents/basics)
 {: .callout}
 
 > ## Exercise 1: Checking common licenses (5 min + discussion)
