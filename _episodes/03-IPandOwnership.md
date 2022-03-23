@@ -18,14 +18,12 @@ keypoints:
 
 ## Open Science and Intellectual property
 
-> *This section is tailored to the EU and UK.*
->
 > Intellectual property (IP) is something that you create using your
 > mind - for example, a story, an invention, an artistic work
 > or a symbol.
 >
 > The timeline of "opening" matters when one seeks legal protection
-> for his IP.
+> for their IP.
 >
 > For example, patents are granted only for inventions that are
 > **new and were not known to the public** in any form.
@@ -33,34 +31,26 @@ keypoints:
 > information related to the invention completely
 > **prevents the inventor from getting a patent**!
 >
-> In our opinion, you are more likely to benefit from new collaborations,
-> industrial partnerships, consultations which are acquired by openness,
-> than from patent related royalties.
+> You can benefit from new collaborations, industrial partnerships, and consultations which are acquired by openness. 
+> This can yield greater benefit than from patent-related royalties.
 >
 {: .callout}
 
 > ## (Optional) Intellectual property protection
-> *This section is tailored to the EU and UK.*
 >
-> You can use a patent to protect your (*technical*) invention.
+> You can use a patent to protect a non-obvious (*technical*) 
+> invention that provides "technical contribution" or solves a "technical problem".
 > It gives you the right to take legal action against anyone who
 > makes, uses, sells or imports it without your permission.
->
-> Discoveries, mathematical methods, computer programs and
-> business methods as such are not regarded as inventions.
-> Surgical and therapeutic procedures,
-> diagnostic methods and new plant or animal varieties are
-> completely excluded from patentability.
 >
 > Patents are granted only for inventions that are
 > **new and were not known to the public** in any form.
 > Publishing in a journal or presenting in a conference
-> information related to the invention completely
+> information related to the invention 
 > **prevents the inventor from getting a patent**!
 >
-> In principle, software cannot be patented.
-> However, it is a “no but yes” situation, and a software patent
-> are being granted. It is usually, settled by the court for each case.
+> In principle, software can be patented.
+> It is usually, settled by the court for each case.
 >
 > **Software code is copyrighted**. Copyright prevents people from:
 > *	copying your code
@@ -68,7 +58,16 @@ keypoints:
 >
 > Data cannot be patented, and in principle, it cannot be copyrighted.
 > **It is not possible to copyright facts!**
->
+> 
+> Facts are not patentable, and since machine learning algorithms 
+> like neural networks are basically mathematical methods, they 
+> are exempt from protection. However, applied to a certain 
+> problem, an algorithm may become part of a patent. *IF framed it in 
+> the right way, patenting an algorithm is possible. 
+> For example, a deep learning algorithm generating a certain kind of 
+> audio may be eligible. But that would not prevent the network from 
+> being applied to any other problem.
+> 
 > However, how data are collated and presented
 > (especially if it is a database),
 > can have a layer of copyright protection.
@@ -79,9 +78,7 @@ keypoints:
 > better lawyers.
 >
 > After:
-> UK Government, [Intellectual Property](https://www.gov.uk/browse/business/intellectual-property)
-> European Patent Office, [Inventor’s Handbook](https://www.epo.org/learning/materials/inventors-handbook.html)
->
+> 
 {: .callout}
 
 > ## Exercise 1: Checking common licenses (5 min + discussion)
