@@ -9,9 +9,8 @@ objectives:
 - "Setup Hydroshare our example FAIR data platform"
 - "Better research by better sharing"
 keypoints:
-- "Do not be shy"
-- "Be nice"
-- "Remember, you can do better research if you plan to share your outputs!"
+- "You can do more impactful research if you plan to share your outputs!"
+- "You can more efficiently publish if you plan to share your outputs!"
 ---
 
 ## Introductions
