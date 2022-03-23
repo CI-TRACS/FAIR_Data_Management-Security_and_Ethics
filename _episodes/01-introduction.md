@@ -84,10 +84,7 @@ Our agenda:
 > Before we begin let's explain how to use the tools:
 > * Raising hands
 > * Yes/No sticker
-> * Chatroom for links not for jokes
 > * Breakout rooms, leaving and rejoining
-> * using pad, answering questions in pad
-> * where to find things
 > If needed, check the pre workshop setup, ask to report problems
 > and help at a break or after the session.
 >
