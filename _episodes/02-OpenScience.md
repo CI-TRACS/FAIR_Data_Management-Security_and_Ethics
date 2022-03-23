@@ -67,7 +67,7 @@ the open best practices.
 
 ![Figure 1. Open Science Building Blocks](../fig/OpenScienceBuildingBlocks.jpeg)
 
-*After [Gema Bueno de la Fuente](https://www.fosteropenscience.eu/content/what-open-science-introduction)*
+*Attribution [Gema Bueno de la Fuente](https://www.fosteropenscience.eu/content/what-open-science-introduction)*
 
 ### Open Science Building Blocks
 
