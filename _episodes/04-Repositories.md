@@ -72,20 +72,6 @@ assure Findability and Accessibility.
 
 (4 min discussion)
 
-> ## Exercise 2: Datasets discovery (5 min)  
->  
-> Try to find either: 
-> * similar data sets in Hydroshare
-> * data sets of interest for you
->   
-> Hint 1: Verify the completeness/richness of the associated metadata. Is it complete? Are some bits missing?   
-> Hint 2: Does the dataset include a ReadMe.txt file?   
->  
-> > ## Solution
-> > Hydroshare is a good place to keep your data separate from paper. It gives access to all files, allowing you to cite the data as well (or instead of) the paper.  
-> > However, it is not good for disovery, and does not enforce most metadata!  
-> >   
-> {: .solution}
 {: .challenge}
 <br>
 (3 min teaching)
