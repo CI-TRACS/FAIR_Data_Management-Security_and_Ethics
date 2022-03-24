@@ -103,27 +103,6 @@ assure Findability and Accessibility.
 >  
 {: .callout}
 
-> ## Challenge 3. Domain specific repositories (7 min).  
->  
-> Select one of the following repositories based on your expertise/interests:  
->  
-> - Have a look at mRNAseq accession 'E-MTAB-7933' in [ArrayExpress](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-7933/)  
-> - Have a look at microscopy 'project-1101' in [IDR](https://idr.openmicroscopy.org/webclient/?show=project-1101)  
-> - Have a look at the synthethic part record 'SubtilinReceiver_spaRK_separated' within the 'bsu' collection in [SynBioHub](https://synbiohub.org/public/bsu/SubtilinReceiver_spaRK_separated/1)  
-> - Have a look at the proteomics record 'PXD013039' in [PRIDE](https://www.ebi.ac.uk/pride/archive/projects/PXD013039)  
-> - Have a look at the metabolomics record 'MTBLS2289' in [Metabolights](https://www.ebi.ac.uk/metabolights/MTBLS2289/descriptors)  
-> - Have a look at the scripts deposit 'RNA-Seq-validation' in [GitHub](https://github.com/PauloFlores/RNA-Seq-validation)  
->  
-> Report to the group, what advantages can you see in using a specific repository over a generalist repository like Zenodo.
-> 
->> ## Solution
->> Some advantages are:
->> *   The repository is more relevant to your discipline than a generalist one.
->> *   Higher exposure (people looking for those specific types of data will usually first look at the specific repository).
->> *   Higher number of citations (see above).
-> {: .solution}
-{: .challenge}
-
 ## How do we choose a research data repository?
 (3 min teaching)
 As a general rule, your research needs to be deposited in discipline/data specific repository. If no specific repository can be found, then you can use a generalist repository. Having said this, there are tons of data repositories to choose from. Choosing one can be time consuming and challenging as well.
