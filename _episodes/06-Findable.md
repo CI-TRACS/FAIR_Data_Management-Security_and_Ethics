@@ -46,7 +46,7 @@ A DOI has three main parts:
 - Prefix which is unique to the registrant or member
 - Suffix, a unique identifier assigned locally by the registrant to an object
 
-![Anatomy of a DOI](../fig/anatomy-of-a-doi.jpg) 
+![Anatomy of a DOI](../fig/anatomy-of-a-doi.jpeg) 
 
 In the example above, the prefix is used by the Australian National Data Service (ANDS) now called the Australia Research Data Commons (ARDC) and the suffix is a unique identifier for an object at Griffith University. DataCite provides DOI [display guidance](https://support.datacite.org/docs/datacite-doi-display-guidelines
 ) so that they are easy to recognize and use, for both humans and machines.
