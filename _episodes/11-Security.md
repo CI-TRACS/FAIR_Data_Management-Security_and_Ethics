@@ -3,18 +3,18 @@ title: "Security"
 teaching: 0
 exercises: 0
 questions:
-- "What will your journey to be FAIR productive entail?"
+- "What measures will you take to secure your data?"
 objectives:
-- "Discuss steps and changes in your habits you will take after this course"
-- "List of resources that will help you achieve these goals"
+- "Discuss steps and changes in your habits you will take after learning about data security."
 keypoints:
-- "There are simple steps to help make your data more FAIR throughout the research data lifecycle"
-- "Implement these steps throughout to keep track of your data and changes"
+- "There are simple steps to help make your data more secure"
+- "Implement these steps to avoid data loss"
 ---
 
-For the past three days we have discussed how you can embark on a journey to be FAIR,
-we also showed you tools you can use in your daily life and throughout the research data 
-life cycle to make your data more: Findable, Accessible, Interoperable and Reproducible
+Today, we will approach two different aspcets of data security. 
+- Securing data from hostile people and groups that would compromise the system. 
+- Securing data from general threats such as power outages, fires, floods, and hardware failure. 
+
 
 
 
