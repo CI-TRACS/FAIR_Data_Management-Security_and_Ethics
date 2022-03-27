@@ -24,10 +24,16 @@ Technology poses ethical challanges. There are several areas of research in data
 Are you or do you know anyone who believes their phone is listening to them? 
 - Companies who implement predictive analytics are drifting towards needing to prove the negative with regard to privacy (that they're following their privacy policies) to consumers because their predictive analytics are so good. 
 
-*Fairness* is 
+*Fairness* Because machine learning algorithms often find new, unexpected connections. Such algorithms are useful because they can interpret data that a human cannot; they can improve the fairness of these decisions or they can exacerbate existing biases. Ascertaining when and how machine learning systems  introduce bias into decision-making processes presents a significant new challange in developing these tools. 
+
+"While we don’t promise equal outcomes, we have strived to deliver equal opportunity." –Barack Obama
+
+- Humans do not entirely agree on what is fair.
 
 Choice of Algorithmic Model Impacts the Output. 
 Low Impact Decision, High Volume ex. Facebook Advertising
 High Impact Decision, Low Volume ex. Medical Testing 
+
+Anti-discrimination laws cover machine learning algorithms and, even if variables related to protected-class status are excluded, these algorithms can still produce disparate impacts. Such impacts can be measured if the variables that they use correlate with both the output variable and a variable for protected-class status. Even unintentional discrimination results in legal risk. 
 
 {% include links.md %}
