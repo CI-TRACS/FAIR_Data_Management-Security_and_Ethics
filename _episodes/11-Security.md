@@ -47,8 +47,19 @@ Strategies to Prevent Hostile Groups from Stealing Data:
 Securing Data from Other Natural Events
 Data loss can happen for many reasons such as fires, floods, and hardware failure. The main strategy for preventing this is data redundancy, where data is stored in multiple locations. 
 
+Large datasets, will often span multiple hard disks as we approach 1 terabit per square inch (though to be the superparamagnetic limit) of storage density in magnetic hard drives with increasing data size. Storage arrays are ften redundent, redundancy is often created using various types of RAID configurations. 
+- *Raid 1* is an exact copy (or mirror) of a set of data on two or more disks.
+- *Raid 5* consists of block-level striping with distributed parity and requires that all drives but one be present to operate. Upon failure of a single drive, subsequent reads can be calculated from the distributed parity such that no data is lost. RAID 5 requires at least three disks.
+
+Small datasets and files are often stored on laptops and computer hard drives. While storage on these devices is more reliable than ever, the data could be lost in the event of damage to the computer. *Data storage is affordable, recreating data is not! Important files should never be in only 1 place.* Cloud storage can be useful for this. Some cloud storage services: 
+- Dropbox
+- GSuite
+- OneDrive
+- iCloud
+
 > ## Resources
 > [Attribution](https://onlinedegrees.und.edu/blog/types-of-cyber-security-threats/)
+> [RAID](https://en.wikipedia.org/wiki/Standard_RAID_levels)
 > The BioRDM team has a lot of information about the here taught course material on 
 > their [BioRDM wiki](https://www.wiki.ed.ac.uk/display/RDMS/).
 {: .callout}
