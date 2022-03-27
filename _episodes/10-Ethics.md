@@ -34,6 +34,12 @@ Choice of Algorithmic Model Impacts the Output.
 Low Impact Decision, High Volume ex. Facebook Advertising
 High Impact Decision, Low Volume ex. Medical Testing 
 
-Anti-discrimination laws cover machine learning algorithms and, even if variables related to protected-class status are excluded, these algorithms can still produce disparate impacts. Such impacts can be measured if the variables that they use correlate with both the output variable and a variable for protected-class status. Even unintentional discrimination results in legal risk. 
+Anti-discrimination laws cover machine learning algorithms and, even if variables related to protected-class status are excluded, these algorithms can still produce disparate impacts. Such impacts can be measured if the variables that they use correlate with both the output variable and a variable for protected-class status. Even unintentional discrimination results in legal risk.
+
+Both public and private entities should conduct disparate impact assessments. Software developers should perform disparate impact analyses before publishing or using their algorithms. 
+
+
+
+https://www.brookings.edu/research/fairness-in-algorithmic-decision-making/
 
 {% include links.md %}
