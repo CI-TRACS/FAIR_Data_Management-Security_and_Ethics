@@ -39,6 +39,13 @@ Types of attacks
 
 Cyber security practices continue to evolve as the internet and digitally dependent operations develop and change. Data storage on devices such as laptops and cellphones makes it easier for cyber attackers to find an entry point into a network through a personal device. For example, in the May 2019 book Exploding Data: Reclaiming Our Cyber Security in the Digital Age, former U.S. Secretary of Homeland Security Michael Chertoff warns of a pervasive exposure of individuals’ personal information, which has become increasingly vulnerable to cyber attacks. Increase in both *data use* and *data sharing* are contributing to cybersecurity threats. Volume and connectedness both create new areas to exploit. 
 
+Strategies to Prevent Hostile Groups from Stealing Data:
+- Complex Passwords
+- Setting 2 Factor Authentication
+- Choosing a Reputible Data Repository
+
+Securing Data from Other Natural Events
+Data loss can happen for many reasons such as fires, floods, and hardware failure. The main strategy for preventing this is data redundancy, where data is stored in multiple locations. 
 
 > ## Resources
 > [Attribution](https://onlinedegrees.und.edu/blog/types-of-cyber-security-threats/)
