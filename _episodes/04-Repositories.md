@@ -151,16 +151,6 @@ You can evaluate the repositories by following this criteria:
 - policy and process: does it help you meet community standards of good practice and comply with policies stipulating data deposit? 
 
 An interesting take can be found at Peter Murray-Rust's blog post [Criteria for succesful repositories](https://blogs.ch.cam.ac.uk/pmr/2011/08/19/criteria-for-successful-repositories/).
-    
-    
-> ## Exercise 5: Wrap up discussion (7 min - OPTIONAL).
-> Discuss the following questions:
-> * Why is choosing a domain specific repositories over zenodo more FAIR?
-> * How can selecting a repository for your data as soon as you do an experiment (or even before!) benefit your research and help your data become FAIR?
-> * What is your favourite research data repository? Why?
->
-{: .challenge}
-
 
 > ## Attribution
 > Content of this episode was adapted or inspired by:.
