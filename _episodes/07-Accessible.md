@@ -80,5 +80,4 @@ If a DOI is no longer available and the data center does not have the resources 
 - Zenodo tombstone: [https://zenodo.org/record/1098445](https://zenodo.org/record/1098445)
 - Figshare tombstone: [https://figshare.com/articles/Climate_Change/1381402](https://figshare.com/articles/Climate_Change/1381402)
 
-## Discussion of tombstones
 
