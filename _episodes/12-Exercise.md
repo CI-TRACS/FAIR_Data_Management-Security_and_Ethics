@@ -23,16 +23,11 @@ keypoints:
 >Use the [ARDC FAIR self assessment tool](https://ardc.edu.au/resources/aboutdata/fair-data/fair-self-assessment-tool/)
 >
 >> ## Solution
->> Some typical elements are:
->> * biological material, e.g. Species, Genotypes, Tissue type, Age, Health conditions
->> * biological context, e.g. speciment growth, entrainment, samples preparation
->> * experimental factors and conditions, e.g. drug treatments, stress factors
->> * primers, plasmid sequences, cell line information, plasmid construction
->> * specifics of data acquisition
->> * specifics of data processing and analysis
->> * definition of variables
->> * accompanying code, software used (version nr), parameters applied, statistical tests used, seed for randomisation
->> * LOT numbers
+>> Solutions will probably contain the following:
+>> * Findable
+>> * Accessible
+>> * Interoperable
+>> * Reusable
 > {: .solution}
 {: .challenge}
 
