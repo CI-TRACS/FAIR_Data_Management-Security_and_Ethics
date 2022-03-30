@@ -72,9 +72,6 @@ assure Findability and Accessibility.
 
 (4 min discussion)
 
-{: .challenge}
-<br>
-(3 min teaching)
 > ## Minimal data set
 > Minimal data set to consist of the data required to replicate all study findings reported 
 > in the article, as well as related metadata and methods.
