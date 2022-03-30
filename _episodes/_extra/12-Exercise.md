@@ -24,10 +24,10 @@ keypoints:
 >
 >> ## Solution
 >> Solutions will probably contain the following:
->> * Findable
->> * Accessible
->> * Interoperable
->> * Reusable
+>> * Findable: mostly FAIR
+>> * Accessible: partially FAIR
+>> * Interoperable: partially FAIR
+>> * Reusable: mostly FAIR
 > {: .solution}
 {: .challenge}
 
