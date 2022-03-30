@@ -119,10 +119,10 @@ resource that allow people to discover and identify it; E.g.
 authors, title, abstract, keywords, persistent identifier, related
 publications, etc.
 * **Structural metadata:** data about how a dataset or resource
-came about, but also how it is internally structured. E.g. the unit 
-of analysis, collection method, sampling procedure, sample size, 
-categories, variables, etc. Structural metadata have to be gathered by 
-the researchers according to best practice in their research community 
+came about, but also how it is internally structured. E.g. the unit
+of analysis, collection method, sampling procedure, sample size,
+categories, variables, etc. Structural metadata have to be gathered by
+the researchers according to best practice in their research community
 and will be published together with the data.
 
 Descriptive and structural **metadata should be added
@@ -213,9 +213,9 @@ and guidelines called **Minimal Information Standards**.
 >
 > > ## Solution
 > > Possible answers:
-> > * a) 2, 3, 4, 5, 6, 8a-b 
+> > * a) 2, 3, 4, 5, 6, 8a-b
 > > * b) 3, 7
-> > * c) 2, 3, 4, 5, 6 
+> > * c) 2, 3, 4, 5, 6
 > >
 > {: .solution}
 {: .challenge}
@@ -223,8 +223,8 @@ and guidelines called **Minimal Information Standards**.
 
 What if there are no metadata standards defined for your data / field of research?
 
-Think about the minimum information that someone else (from your lab or from any 
-other lab in the world) would need to know  to be able to work with your dataset 
+Think about the minimum information that someone else (from your lab or from any
+other lab in the world) would need to know  to be able to work with your dataset
 without any further input from you.
 
 **Think as a consumer** of your data not the producer!
@@ -258,7 +258,7 @@ without any further input from you.
 {: .challenge}
 
 ## Metadata and FAIR guidelines
-Metadata provides extremely valuable information for us and others to be able to 
+Metadata provides extremely valuable information for us and others to be able to
 interpret, process, reuse and reproduce the research data it accompanies.
 
 Because metadata are data about data, all of the FAIR principles i.e.
