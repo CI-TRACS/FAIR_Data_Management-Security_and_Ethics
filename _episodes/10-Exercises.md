@@ -49,26 +49,6 @@ keypoints:
 > {: .solution}
 {: .challenge}
 
-> ## Exercise: What aspect of this dataset are FAIR? (10 minutes)
-> At bare minimum, any dataset can probably benefit from having the below information available:
-> * a name/title
-> * its purpose or experimental hypothesis
->
-> Analyze the below dataset from HydroShare.
-> [Hydroshare: Annual soil moisture predictions across conterminous United States using remote sensing and terrain analysis across 1 km grids (1991-2016)](https://www.hydroshare.org/resource/b8f6eae9d89241cf8b5904033460af61/)
->
->Use the [ARDC FAIR self assessment tool](https://ardc.edu.au/resources/aboutdata/fair-data/fair-self-assessment-tool/)
->
->> ## Solution
->> Solutions will probably contain the following:
->> * Findable: mostly FAIR
->> * Accessible: mostly FAIR
->> * Interoperable: mostly FAIR
->> * Reusable: mostly FAIR
-> {: .solution}
-{: .challenge}
-
-
 > ## Attribution
 >
 > Content of this episode was adapted from:
