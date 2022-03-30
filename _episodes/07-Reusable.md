@@ -3,7 +3,7 @@ title: "Reusable"
 teaching: 0
 exercises: 0
 questions:
-- "Key question"
+- "What makes data reusable?"
 objectives:
 - "Explain machine readability in terms of file naming conventions and providing provenance metadata"
 - "Explain how data citation works in practice"
@@ -12,7 +12,8 @@ objectives:
 - "Understand how proper licensing is essential for reusability"
 - "Know about some of the licenses commonly used for data and software"
 keypoints:
-- "First key point."
+- "It is possible to publish public data that does not meet FAIR standards."
+- "Different fields have variable standards for metadata."
 ---
 
 > ## For data & software to be reusable:
@@ -41,39 +42,39 @@ As another example scans (photographs) of text are not machine-readable (but are
 ## File naming best practices
 A file name should be unique, consistent and descriptive. This allows for increased visibility and discoverability and can be used to easily classify and sort files. Remember, a file name is the primary identifier to the file and its contents.  
 ### Do’s and Don’ts of file naming:
-#### Do’s: 
+#### Do’s:
 - Make use of file naming tools for bulk naming such as Ant Renamer, RenameIT or Rename4Mac.
-- Create descriptive, meaningful, easily understood names no less than 12-14 characters. 
-- Use identifiers to make it easier to classify types of files i.e. Int1 (interview 1) 
+- Create descriptive, meaningful, easily understood names no less than 12-14 characters.
+- Use identifiers to make it easier to classify types of files i.e. Int1 (interview 1)
 - Make sure the 3-letter file format extension is present at the end of the name (e.g. .doc, .xls, .mov, .tif)
 - If applicable, include versioning within file names
-- For dates use the  ISO 8601  standard: YYYY-MM-DD and place at the end of the file number UNLESS you need to organise your files chronologically. 
-- For experimental data files, consider using the project/experiment name and conditions in abbreviations 
+- For dates use the  ISO 8601  standard: YYYY-MM-DD and place at the end of the file number UNLESS you need to organise your files chronologically.
+- For experimental data files, consider using the project/experiment name and conditions in abbreviations
 - Add a README file in your top directory which details your naming convention, directory structure and abbreviations
-- - When combining elements in file name, use common [special letter case](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) patterns such as Kebab-case, CamelCase, or Snake_case, preferably use hyphens (-) or underscores (_) 
+- - When combining elements in file name, use common [special letter case](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) patterns such as Kebab-case, CamelCase, or Snake_case, preferably use hyphens (-) or underscores (_)
 #### Don’ts:
-- Avoid naming files/folders with individual persons names as it impedes handover and data sharing. 
+- Avoid naming files/folders with individual persons names as it impedes handover and data sharing.
 - Avoid long names
 - Avoid using spaces, dots, commas and special characters (e.g. ~ ! @ # $ % ^ & * ( ) ` ; < > ? , [ ] { } ‘ “)
-- Avoid repetition for ex. Directory name Electron_Microscopy_Images, then you don’t need to name the files ELN_MI_Img_20200101.img 
+- Avoid repetition for ex. Directory name Electron_Microscopy_Images, then you don’t need to name the files ELN_MI_Img_20200101.img
 
-#### Examples: 
-- Stanford Libraries [guidance on file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming) is a great place to start. 
+#### Examples:
+- Stanford Libraries [guidance on file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming) is a great place to start.
 - [Dryad example](http://datadryad.com/pages/reusabilityBestPractices):
 - 1900-2000_sasquatch_migration_coordinates.csv
 - Smith-fMRI-neural-response-to-cupcakes-vs-vegetables.nii.gz
 - 2015-SimulationOfTropicalFrogEvolution.R
 
 ## Directory structures and README files
-A clear directory structure will make it easier to locate files and versions and this is particularly important when collaborating with others. Consider a hierarchical file structure starting from broad topics to more specific ones nested inside, restricting the level of folders to 3 or 4 with a limited number of items inside each of them. 
+A clear directory structure will make it easier to locate files and versions and this is particularly important when collaborating with others. Consider a hierarchical file structure starting from broad topics to more specific ones nested inside, restricting the level of folders to 3 or 4 with a limited number of items inside each of them.
 
-The UK data services offers an example of directory structure and naming: https://ukdataservice.ac.uk/manage-data/format/organising.aspx 
+The UK data services offers an example of directory structure and naming: https://ukdataservice.ac.uk/manage-data/format/organising.aspx
 
 For others to reuse your research, it is important to include a README file and to organize your files in a logical way. Consider the following file structure examples from Dryad:
 
 ![Dryad File Structures](../fig/file_structures.png)
 
-It is also good practice to include README files to describe how the data was collected, processed, and analyzed. In other words, README files help others correctly interpret and reanalyze your data. A README file can include file names/directory structure, glossary/definitions of acronyms/terms, description of the parameters/variables and units of measurement, report precision/accuracy/uncertainty in measurements, standards/calibrations used, environment/experimental conditions, quality assurance/quality control applied, known problems, research date information, description of relationships/dependencies, additional resources/references, methods/software/data used, example records, and other supplemental information. 
+It is also good practice to include README files to describe how the data was collected, processed, and analyzed. In other words, README files help others correctly interpret and reanalyze your data. A README file can include file names/directory structure, glossary/definitions of acronyms/terms, description of the parameters/variables and units of measurement, report precision/accuracy/uncertainty in measurements, standards/calibrations used, environment/experimental conditions, quality assurance/quality control applied, known problems, research date information, description of relationships/dependencies, additional resources/references, methods/software/data used, example records, and other supplemental information.
 
 - Dryad README file example:
 https://doi.org/10.5061/dryad.j512f21p
@@ -81,13 +82,13 @@ https://doi.org/10.5061/dryad.j512f21p
 - Awesome README list (for software):
 https://github.com/matiassingers/awesome-readme
 
-- Different Format Types 
+- Different Format Types
 https://data.library.virginia.edu/data-management/plan/format-types/
 
 
 ## Disciplinary Data Formats
 
-Many disciplines have developed formal metadata standards that enable re-use of data; however, these standards are not universal and often it requires background knowledge to indentify, contextualize, and interpret the underlying data. Interoperability between disciplines is still a challenge based on the continued use of custom metadata schmes, and the development of new, incompatiable standards. Thankfully, DataCite is providing a common, overarching metadata standard across disciplinary datasets, albeit at a generic vs granular level. 
+Many disciplines have developed formal metadata standards that enable re-use of data; however, these standards are not universal and often it requires background knowledge to indentify, contextualize, and interpret the underlying data. Interoperability between disciplines is still a challenge based on the continued use of custom metadata schmes, and the development of new, incompatiable standards. Thankfully, DataCite is providing a common, overarching metadata standard across disciplinary datasets, albeit at a generic vs granular level.
 
 In the meantime, the Research Data Alliance (RDA) Metadata Standards Directory - Working Group developed a collaborative, open directory of metadata standards, applicable to scientific data, to help the research community learn about metadata standards, controlled vocabularies, and the underlying elements across the different disciplines, to potentially help with mapping data elements from different sources.
 
@@ -97,21 +98,21 @@ Exercise/Quiz?
 Features: Standards, Extensions, Tools, and Use Cases
 
 ## Quality Control
-Quality control is a fundamental step in research, which ensures the integrity of the data and could affect its use and reuse and is required in order to identify potential problems. 
+Quality control is a fundamental step in research, which ensures the integrity of the data and could affect its use and reuse and is required in order to identify potential problems.
 
 It is therefore essential to outline how data collection will be controlled at various stages (data collection,digitisation or data entry, checking and analysis).
 
 ## Versioning
-In order to keep track of changes made to a file/dataset, versioning can be an efficient way to see who did what and when, in collaborative work this can be very useful. 
+In order to keep track of changes made to a file/dataset, versioning can be an efficient way to see who did what and when, in collaborative work this can be very useful.
 
-A version control strategy will allow you to easily detect the most current/final version,  organize, manage and record any edits made while working on the document/data, drafting, editing and analysis. 
+A version control strategy will allow you to easily detect the most current/final version,  organize, manage and record any edits made while working on the document/data, drafting, editing and analysis.
 
 Consider the following practices:
-- Outline the master file and identify major files for instance; original, pre-review, 1st revision, 2nd revision, final revision, submitted. 
-- Outline strategy for archiving and storing: Where to store the minor and major versions, how long will you retain them accordingly. 
+- Outline the master file and identify major files for instance; original, pre-review, 1st revision, 2nd revision, final revision, submitted.
+- Outline strategy for archiving and storing: Where to store the minor and major versions, how long will you retain them accordingly.
 - Maintain a record of file locations, a good place is in the README files
 
-Example: 
+Example:
 UK Data service version control guide:
 https://www.ukdataservice.ac.uk/manage-data/format/versioning.aspx
 
@@ -128,7 +129,7 @@ Binder - executable environment, making your code immediately reproducible by an
 https://blog.jupyter.org/binder-2-0-a-tech-guide-2017-fd40515a3a84
 
 Narrative & Documentation
-Jupyter Notebooks 
+Jupyter Notebooks
 https://www.contentful.com/blog/2018/06/01/create-interactive-tutorials-jupyter-notebooks/
 
 
@@ -170,8 +171,7 @@ Open Licensing and file formats https://open-science-training-handbook.gitbook.i
 DCC How to license research data https://www.dcc.ac.uk/guidance/how-guides/license-research-data
 
 
-## Exercise- Thanks, but no Thanks! 
+## Exercise- Thanks, but no Thanks!
 In groups of 2-3 discuss and note down;
 - Have you ever received data you couldn’t use? & why not?
 - Have you tried replicating an experiment, yours or someone else? What challenges did you face?
-
