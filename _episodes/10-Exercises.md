@@ -49,6 +49,26 @@ keypoints:
 > {: .solution}
 {: .challenge}
 
+> ## Exercise: What aspect of this dataset are FAIR? (10 minutes)
+> At bare minimum, any dataset can probably benefit from having the below information available:
+> * a name/title
+> * its purpose or experimental hypothesis
+>
+> Analyze the below dataset from HydroShare.
+> [Long-term, gridded standardized precipitation index for Hawai‘i](http://ikewai.org/data/?dd=3737090897300090390-242ac1110-0001-012)
+>
+>Use the [ARDC FAIR self assessment tool](https://ardc.edu.au/resources/aboutdata/fair-data/fair-self-assessment-tool/)
+>
+>> ## Solution
+>> Solutions will probably contain the following:
+>> * Findable: mostly FAIR
+>> * Accessible: mostly FAIR
+>> * Interoperable: mostly FAIR
+>> * Reusable: mostly FAIR
+> {: .solution}
+{: .challenge}
+
+
 > ## Attribution
 >
 > Content of this episode was adapted from:
