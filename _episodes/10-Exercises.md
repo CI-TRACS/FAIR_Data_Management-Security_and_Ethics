@@ -68,6 +68,25 @@ keypoints:
 > {: .solution}
 {: .challenge}
 
+> ## Exercise: What aspect of this dataset are FAIR? (10 minutes)
+> At bare minimum, any dataset can probably benefit from having the below information available:
+> * a name/title
+> * its purpose or experimental hypothesis
+>
+> Analyze the below dataset from HydroShare.
+> [‘Ike Wai: Groundwater Chemistry - Nutrient Data](http://ikewai.org/groundwater-chemistry-nutrient-data/)
+>
+>Use the [ARDC FAIR self assessment tool](https://ardc.edu.au/resources/aboutdata/fair-data/fair-self-assessment-tool/)
+>
+>> ## Solution
+>> Solutions will probably contain the following:
+>> * Findable: mostly FAIR
+>> * Accessible: mostly FAIR
+>> * Interoperable: mostly FAIR
+>> * Reusable: mostly FAIR
+> {: .solution}
+{: .challenge}
+
 
 > ## Attribution
 >
