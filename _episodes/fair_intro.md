@@ -54,7 +54,8 @@ This is particularly relevant for working with and discovering new data.
 >
 > - Tied to a particular technology or tool. There might be different tools that
 >   enable FAIR data within different disciplines or research workflows.
->
+
+
 ## Why FAIR?
 
 The original authors of the FAIR principles had a strong focus on enhancing
@@ -62,11 +63,7 @@ reusability of data. This ambition is embedded in a broader view on knowledge
 creation and scientific exchange. If research data are easily discoverable and
 re-usable, this lowers the barriers to repeat, verify, and build upon previous
 work. The authors also state that this vision applies not just to data, but to
-all aspects of the research process. This is visualized in the image below.
-
-![Reproducibility illustration by Scriberia](../fig/ReproducibleJourney.jpg) *This
-image was created by Scriberia for The Turing Way community and is used under a
-CC-BY licence. Source: <https://doi.org/10.5281/zenodo.3695300>*
+all aspects of the research process. 
 
 > ## What's in it for you?
 >
