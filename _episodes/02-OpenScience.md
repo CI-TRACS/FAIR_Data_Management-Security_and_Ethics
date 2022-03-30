@@ -311,39 +311,6 @@ You do not want to be left behind!
 > - [Ted talk supporting OS](https://www.youtube.com/watch?v=c-bemNZ-IqA)
 
 
-
-> ## Exercise 4: Open Science Quiz (5 min + runs over break)
->
-> Which of the following statements about the OS movement are true/false?
->
->* Open Science relies strongly on the Internet
->* Open Access eliminates publishing costs
->* Open Data facilitates re-use
->* Open Data can increases confidence in research findings
->* In Open Peer Review, readers vote on publication acceptance
->* Open Notebooks improve reproducibility
->* Open Notebooks can create patenting issues
->* Open Access permits the whole society to benefit from scientific findings
->* Citizen Science engages the public in the research process
->* Citizen Science can help get ecological data quickly
->
-> > ## Solution
-> >* Open Science relies strongly on the Internet T
-> >* Open Access eliminates publishing costs F
-> >* Open Data facilitates re-use T
-> >* Open Data increases confidence in research findings T
-> >* In Open Peer Review, readers vote on publication acceptance  F
-> >* Open Notebooks improve reproducibility T
-> >* Open Notebooks can create patenting issues T*
-> >* Open Access permits the whole society to benefit from scientific findings T
-> >* Citizen Science engages the public in the research process T
-> >* Citizen Science can help get ecological data quickly T
-> >
-> >
-> {: .solution}
-{: .challenge}
-
-
 > ## Attribution
 >
 > Content of this episode was adapted from:
