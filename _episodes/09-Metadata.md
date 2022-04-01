@@ -271,7 +271,7 @@ so that they can interlink or be reasoned about by computer systems.
 > ## Attribution
 >
 > Content of this episode was adapted from:
-> - [Metadata - FAIR data for climate sciences](https://escience-academy.github.io/Lesson-FAIR-Data-Climate/metadata/index.html).
+> - [Metadata - FAIR data for climate sciences](https://esciencecenter-digital-skills.github.io/Lesson-FAIR-Data-Climate/metadata/index.html).
 > - [Metadata - How to FAIR](https://howtofair.dk/how-to-fair/metadata/)
 > - [MIBBI](https://fairsharing.org/collection/MIBBI)
 {: .callout}
