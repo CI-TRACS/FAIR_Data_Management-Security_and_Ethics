@@ -4,7 +4,7 @@ root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
 
-Attendee will learn about FAIR data and practice these concepts using Hydroshare. Attendees will learn how to use Hydroshare's REST API to  process data as well as basic information on security and licensing.
+Attendee will learn about FAIR data and practice these concepts using Hydroshare. 
 
 To get the most out of this worskshop attendees should:
 
