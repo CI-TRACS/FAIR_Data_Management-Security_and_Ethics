@@ -91,6 +91,20 @@ without realizing it. NetCDF files, for example, already implement some of the
 FAIR principles around data modeling. But sometimes you need to find your own
 way.
 
+> ## Challenge for yourself - Evaluate one of your own datasets
+>
+> Pick one dataset that you've created or worked with recently, and answer the
+> following questions:
+>
+> - If somebody gets this dataset from you, would they be able to understand
+>   the structure and content without asking you?
+> - Do you know who has access to this dataset? Could somebody easily have access
+>   to this dataset? How?
+> - Does this dataset needs proprietary software to be used?
+> - Does this dataset have a persistent identifier or usage licence?
+>
+{: .challenge}
+
 > ## Attribution
 >
 > Content of this episode was adapted from:
