@@ -15,6 +15,10 @@ keypoints:
 - "It is possible to publish public data that does not meet FAIR standards."
 - "Different fields have variable standards for metadata."
 ---
+## Exercise 6: Thanks, but no thanks!
+In groups discuss:
+- Have you ever received data you couldn’t use? Why or why not?
+- Have you tried replicating an experiment, yours or someone else? What challenges did you face?
 
 > ## Exercise 6: Thanks, but no thanks!
 > - In groups discuss--have you ever received data you couldn’t use? Why or why not?
