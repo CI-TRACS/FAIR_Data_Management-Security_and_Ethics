@@ -147,7 +147,8 @@ You can evaluate the repositories by following this criteria:
 - take-up and impact: what can I put in it? Is anyone else using it? Will others be able to find stuff deposited in it? Is the repository linked to other data repositories so I don't have to search tehre as well? Can anyone reuse the data? Can others cite the data, and will depositing boost citations to related papers?  
 - policy and process: does it help you meet community standards of good practice and comply with policies stipulating data deposit?
 
-An interesting take can be found at Peter Murray-Rust's blog post [Criteria for succesful repositories](https://blogs.ch.cam.ac.uk/pmr/2011/08/19/criteria-for-successful-repositories/).
+> ## Resources
+> - An interesting take can be found at Peter Murray-Rust's blog post [Criteria for succesful repositories](https://blogs.ch.cam.ac.uk/pmr/2011/08/19/criteria-for-successful-repositories/).
 
 > ## Attribution
 > Content of this episode was adapted or inspired by:.

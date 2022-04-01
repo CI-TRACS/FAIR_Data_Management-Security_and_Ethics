@@ -87,7 +87,6 @@ keypoints:
 > {: .solution}
 {: .challenge}
 
-
 > ## Attribution
 >
 > Content of this episode was adapted from:

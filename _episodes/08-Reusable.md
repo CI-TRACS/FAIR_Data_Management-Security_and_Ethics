@@ -16,6 +16,15 @@ keypoints:
 - "Different fields have variable standards for metadata."
 ---
 
+> ## Exercise 6: Thanks, but no thanks!
+> * In groups discuss--have you ever received data you couldn’t use? Why or why not?
+> * Have you tried replicating an experiment, yours or someone else? What challenges did you face?
+> > ## Solution
+> > Time to share some examples!
+> {: .solution}
+{: .challenge}
+
+
 > ## For data & software to be reusable:
 > R1. (meta)data have a plurality of accurate and relevant attributes  
 >     R1.1 (meta)data are released with a clear and accessible data usage licence  
@@ -139,31 +148,15 @@ Creative Commons Wizard and GitHub software licensing wizards (highlight attribu
 Useful content for Licenses
 Note: TIB Hannover Slides https://docs.google.com/presentation/d/1mSeanQqO0Y2khA8KK48wtQQ_JGYncGexjnspzs7cWLU/edit#slide=id.g3a64c782ff_1_138
 
-Additional licensing resources:
-Choose an open source license: https://choosealicense.com/
-4 Simple recommendations for Open Source Software https://softdev4research.github.io/4OSS-lesson/
-Use a license: https://softdev4research.github.io/4OSS-lesson/03-use-license/index.html
-Top 10 FAIR Imaging https://librarycarpentry.org/Top-10-FAIR//2019/06/27/imaging/
-Licensing your work: https://librarycarpentry.org/Top-10-FAIR//2019/06/27/imaging/#9-licensing-your-work
-The Turing Way a Guide for reproducible Research: https://the-turing-way.netlify.app/welcome
-Licensing https://the-turing-way.netlify.app/reproducible-research/licensing.html
-The Open Science Training Handbook: https://open-science-training-handbook.gitbook.io/book/
-Open Licensing and file formats https://open-science-training-handbook.gitbook.io/book/open-science-basics/open-licensing-and-file-formats#6-open-licensing-and-file-formats
-DCC How to license research data https://www.dcc.ac.uk/guidance/how-guides/license-research-data
-
-> ## Exercise 6: Thanks, but no thanks!
-> * In groups discuss--have you ever received data you couldn’t use? Why or why not?
-> * Have you tried replicating an experiment, yours or someone else? What challenges did you face?
-> > ## Solution
-> > Time to share some examples!
-> {: .solution}
-{: .challenge}
-
-
-## Exercise- Thanks, but no Thanks!
-In groups of 2-3 discuss and note down;
-- Have you ever received data you couldn’t use? & why not?
-- Have you tried replicating an experiment, yours or someone else? What challenges did you face?
+> ## Resources
+> - Choose an open source license: https://choosealicense.com/
+> - 4 Simple recommendations for Open Source Software https://softdev4research.github.io/4OSS-lesson/
+> - Top 10 FAIR Imaging https://librarycarpentry.org/Top-10-FAIR//2019/06/27/imaging/
+> - Licensing your work: https://librarycarpentry.org/Top-10-FAIR//2019/06/27/imaging/#9-licensing-your-work
+> - The Turing Way a Guide for reproducible Research: https://the-turing-way.netlify.app/welcome
+> - The Open Science Training Handbook: https://open-science-training-handbook.gitbook.io/book/
+> - Open Licensing and file formats https://open-science-training-handbook.gitbook.io/book/open-science-basics/open-licensing-and-file-formats#6-open-licensing-and-file-formats
+> - DCC How to license research data https://www.dcc.ac.uk/guidance/how-guides/license-research-data
 
 Adapted from: Library Carpentry. September 2019. https://librarycarpentry.org/lc-fair-research.
 

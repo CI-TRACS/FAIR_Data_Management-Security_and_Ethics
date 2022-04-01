@@ -39,8 +39,7 @@ Anti-discrimination laws cover machine learning algorithms and, even if variable
 
 Both public and private entities should conduct disparate impact assessments. Software developers should perform disparate impact analyses before publishing or using their algorithms.
 
-
-
-https://www.brookings.edu/research/fairness-in-algorithmic-decision-making/
+> ## Resources
+> - https://www.brookings.edu/research/fairness-in-algorithmic-decision-making/
 
 {% include links.md %}

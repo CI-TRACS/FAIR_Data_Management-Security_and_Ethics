@@ -121,17 +121,9 @@ Google.GitHub.io/styleguide
 If others can use your code, convey the meaning of updates with SemVer.org (CC BY 3.0)
 “version number[ changes] convey meaning about the underlying code” (Tom Preston-Werner)
 
-
-Exercise
-Python & R Carpentries lessons
-
 ## Linked Data
 
 [Top 10 FAIR things: Linked Open Data](https://librarycarpentry.org/Top-10-FAIR//2019/09/05/linked-open-data/)
-
-Linked data example
-Triples - RDF - SPARQL
-Wikidata exercise
 
 Standards: https://fairsharing.org/standards/
 schema.org: http://schema.org/

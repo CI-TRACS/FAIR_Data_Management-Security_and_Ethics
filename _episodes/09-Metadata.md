@@ -199,7 +199,7 @@ and guidelines called **Minimal Information Standards**.
 >
 {: .callout}
 
-> ## Exercise 2: Minimal information standard example (5 min)
+> ## Exercise 7: Minimal information standard example (2 min)
 >
 > Look at ***Minimum Information about a Neuroscience Investigation (MINI) Electrophysiology***
 > [Gibson, F. et al. Nat Prec (2008)](https://www.nature.com/articles/npre.2008.1720.1.pdf).
@@ -229,7 +229,7 @@ without any further input from you.
 
 **Think as a consumer** of your data not the producer!
 
-> ## Exercise 3: What to include - discussion (4 minutes)
+> ## Exercise 8: What to include - discussion (2 minutes)
 >
 > Think of the data you generate in your projects,
 > and imagine you are going to share them.

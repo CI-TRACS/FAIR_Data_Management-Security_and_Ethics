@@ -14,7 +14,6 @@ objectives:
 keypoints:
 - "Findable, means findable long-term. This requires persistent identifiers (PIDs)."
 - "DOIs are one of more common PIDs and can be used to persistently identify software and datasets."
-
 ---
 
 > ## For data & software to be findable:  
