@@ -1,7 +1,7 @@
 ---
 title: "Public repositories"
 teaching: 8
-exercises: 39
+exercises: 2
 questions:
 - "Where can I deposit datasets?"
 - "What are general data repositories?"
