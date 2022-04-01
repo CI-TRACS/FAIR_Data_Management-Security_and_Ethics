@@ -42,12 +42,6 @@ keypoints:
 > It gives you the right to take legal action against anyone who
 > makes, uses, sells or imports it without your permission.
 >
-> Patents are granted only for inventions that are
-> **new and were not known to the public** in any form.
-> Publishing in a journal or presenting in a conference
-> information related to the invention
-> **prevents the inventor from getting a patent**!
->
 > In principle, software can be patented.
 > It is usually, settled by the court for each case.
 >
