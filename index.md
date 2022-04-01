@@ -4,7 +4,7 @@ root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
 
-Attendee will learn about FAIR data and practice these concepts using Hydroshare. 
+This workshop focuses on introducing FAIR data management practices -- FAIR stands for Findability, Accessibility, Interoperability, and Reusability. Attendees will learn how to incorporate these concepts into data management, additionally the seminar will address data security and ethics. Attendee will learn about FAIR data and practice these concepts using Hydroshare and some other FAIR data tools. 
 
 To get the most out of this worskshop attendees should:
 
