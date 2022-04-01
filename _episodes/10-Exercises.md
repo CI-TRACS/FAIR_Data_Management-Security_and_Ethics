@@ -31,9 +31,6 @@ keypoints:
 {: .challenge}
 
 > ## Exercise 11: What aspect of this dataset are FAIR? (10 minutes)
-> At bare minimum, any dataset can probably benefit from having the below information available:
-> * a name/title
-> * its purpose or experimental hypothesis
 >
 > Analyze the below dataset from HydroShare.
 > [Long-term, gridded standardized precipitation index for Hawai‘i](http://ikewai.org/data/?dd=3737090897300090390-242ac1110-0001-012)
@@ -50,9 +47,6 @@ keypoints:
 {: .challenge}
 
 > ## Exercise 12: What aspect of this dataset are FAIR? (10 minutes)
-> At bare minimum, any dataset can probably benefit from having the below information available:
-> * a name/title
-> * its purpose or experimental hypothesis
 >
 > Analyze the below dataset from HydroShare.
 > [‘Ike Wai: Groundwater Chemistry - Nutrient Data](http://ikewai.org/groundwater-chemistry-nutrient-data/)
