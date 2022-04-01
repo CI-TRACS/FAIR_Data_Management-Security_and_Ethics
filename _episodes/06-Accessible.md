@@ -28,7 +28,7 @@ Simply put, it's an access method of exchanging data over a computer network.  E
 
 Hydroshare offers a REST API protocol which will enable  many of the functions that are accessible through the web user interface, to be done programmatically:  
 
-[Hydroshare Rest API](www.hydroshare.org/hsapi)
+[Hydroshare Rest API](https://www.hydroshare.org/hsapi)
 
 Wikipedia has a list of [commonly used network protocols](https://en.wikipedia.org/wiki/Lists_of_network_protocols) but check the service you are using for documentation on the protocols it uses and whether it corresponds with the FAIR Principles. For instance, see [Hydroshare's API Instructions](https://help.hydroshare.org/introduction-to-hydroshare/getting-started/use-the-api/) page.
 
