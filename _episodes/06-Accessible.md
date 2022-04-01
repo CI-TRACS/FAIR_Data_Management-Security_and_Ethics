@@ -1,7 +1,7 @@
 ---
 title: "Accessible"
 teaching: 8
-exercises: 0
+exercises: 2
 questions:
 - "What is a protocol?"
 - "What types of protocol are FAIR?"
@@ -62,8 +62,6 @@ Thankfully, a number of research systems are now integrating ORCID into their au
 > > - Are the tools used to create, read, update, delete ORCID data open?
 > {: .solution}
 {: .challenge}
-
-
 
 ## Tombstones, a very grave subject
 

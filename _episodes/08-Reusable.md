@@ -38,7 +38,6 @@ Non-digital material (for example printed or hand-written documents) is by its n
 
 As another example scans (photographs) of text are not machine-readable (but are human readable!) but the equivalent text in a format such as a simple ASCII text file can machine readable and processable."
 
-
 ## File naming best practices
 A file name should be unique, consistent and descriptive. This allows for increased visibility and discoverability and can be used to easily classify and sort files. Remember, a file name is the primary identifier to the file and its contents.  
 ### Do’s and Don’ts of file naming:
@@ -92,8 +91,6 @@ Many disciplines have developed formal metadata standards that enable re-use of 
 
 In the meantime, the Research Data Alliance (RDA) Metadata Standards Directory - Working Group developed a collaborative, open directory of metadata standards, applicable to scientific data, to help the research community learn about metadata standards, controlled vocabularies, and the underlying elements across the different disciplines, to potentially help with mapping data elements from different sources.
 
-Exercise/Quiz?  
-
 [Metadata Standards Directory](http://rd-alliance.github.io/metadata-directory/standards/)  
 Features: Standards, Extensions, Tools, and Use Cases
 
@@ -121,7 +118,6 @@ Research Vocabularies Australia https://vocabs.ands.org.au/
 AGROVOC & VocBench http://aims.fao.org/vest-registry/vocabularies/agrovoc
 Dimensions Fields of Research https://dimensions.freshdesk.com/support/solutions/articles/23000012844-what-are-fields-of-research-
 
-
 Versioning/SHA
 https://swcarpentry.github.io/git-novice/reference
 
@@ -134,26 +130,11 @@ https://www.contentful.com/blog/2018/06/01/create-interactive-tutorials-jupyter-
 
 
 Licenses
-Licenses rarely used
 From GitHub https://blog.github.com/2015-03-09-open-source-license-usage-on-github-com/
 
 Lack of licenses provide friction, understanding of whether can reuse
 Peter Murray Project - ContentMine - The Right to Read is the Right to Mine - OpenMinTed
 Creative Commons Wizard and GitHub software licensing wizards (highlight attribution, non commercial)
-
-
-Lessons to teach with this episode
-Data Carpentry - tidy data/data organization with spreadsheets
-https://datacarpentry.org/lessons/
-Library Carpentry - intro to data/tidy data
-
-
-Exercise?
-Reference Management w/ Zotero or other
-
-demo: import Zenodo.org/record/1308061 into Zotero
-demo: RStudio > Packages > Update, run PANGAEA example, then install updates
-https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/FAIR-remix-PANGAEA/index.html
 
 Useful content for Licenses
 Note: TIB Hannover Slides https://docs.google.com/presentation/d/1mSeanQqO0Y2khA8KK48wtQQ_JGYncGexjnspzs7cWLU/edit#slide=id.g3a64c782ff_1_138
@@ -169,6 +150,14 @@ Licensing https://the-turing-way.netlify.app/reproducible-research/licensing.htm
 The Open Science Training Handbook: https://open-science-training-handbook.gitbook.io/book/
 Open Licensing and file formats https://open-science-training-handbook.gitbook.io/book/open-science-basics/open-licensing-and-file-formats#6-open-licensing-and-file-formats
 DCC How to license research data https://www.dcc.ac.uk/guidance/how-guides/license-research-data
+
+> ## Exercise 6: Thanks, but no thanks!
+> * In groups discuss--have you ever received data you couldn’t use? Why or why not?
+> * Have you tried replicating an experiment, yours or someone else? What challenges did you face?
+> > ## Solution
+> > Time to share some examples!
+> {: .solution}
+{: .challenge}
 
 
 ## Exercise- Thanks, but no Thanks!
