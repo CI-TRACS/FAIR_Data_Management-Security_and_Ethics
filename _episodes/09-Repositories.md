@@ -108,7 +108,7 @@ So how do you go about finding a repository:
 - Check [Fairsharing recommendations](https://fairsharing.org/recommendations/?q=)
 	- alternatively, check the [Registry of research data repositories - re3data](https://www.re3data.org/)
 
-> ## Exercise 4: Finding a repository (5 min + 4 min discussion).
+> ## Exercise 9: Finding a repository (5 min + 4 min discussion).
 >
 > a) Find a repo for genomics data.  
 > b) Find a repo for microscopy data.  
@@ -127,7 +127,7 @@ A list of UoE BioRDM's recommended data repositories can be found [here](https:/
 
 > ## What comes first? the repository or the metadata?
 > Finding a repository first may help in deciding what metadata to collect and how!  
->   
+>
 {: .callout}  
 
 > ## Extra features

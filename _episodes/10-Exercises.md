@@ -1,6 +1,6 @@
 ---
 title: "Exercises"
-teaching: 8
+teaching: 0
 exercises: 10
 questions:
 - "What makes this dataset FAIR?"
@@ -11,26 +11,7 @@ keypoints:
 ---
 (10 min exercise)
 
-> ## Exercise: What aspect of this dataset are FAIR? (10 minutes)
-> At bare minimum, any dataset can probably benefit from having the below information available:
-> * a name/title
-> * its purpose or experimental hypothesis
->
-> Analyze the below dataset from HydroShare.
-> [Hydroshare: LNWB Ch04 Climate Data](https://www.hydroshare.org/resource/2d58ac373e4f4174a3050a046aaf121e/)
->
->Use the [ARDC FAIR self assessment tool](https://ardc.edu.au/resources/aboutdata/fair-data/fair-self-assessment-tool/)
->
->> ## Solution
->> Solutions will probably contain the following:
->> * Findable
->> * Accessible
->> * Interoperable
->> * Reusable
-> {: .solution}
-{: .challenge}
-
-> ## Exercise: What aspect of this dataset are FAIR? (10 minutes)
+> ## Exercise 10: What aspect of this dataset are FAIR? (10 minutes)
 > At bare minimum, any dataset can probably benefit from having the below information available:
 > * a name/title
 > * its purpose or experimental hypothesis
@@ -49,7 +30,7 @@ keypoints:
 > {: .solution}
 {: .challenge}
 
-> ## Exercise: What aspect of this dataset are FAIR? (10 minutes)
+> ## Exercise 11: What aspect of this dataset are FAIR? (10 minutes)
 > At bare minimum, any dataset can probably benefit from having the below information available:
 > * a name/title
 > * its purpose or experimental hypothesis
@@ -68,7 +49,7 @@ keypoints:
 > {: .solution}
 {: .challenge}
 
-> ## Exercise: What aspect of this dataset are FAIR? (10 minutes)
+> ## Exercise 12: What aspect of this dataset are FAIR? (10 minutes)
 > At bare minimum, any dataset can probably benefit from having the below information available:
 > * a name/title
 > * its purpose or experimental hypothesis
