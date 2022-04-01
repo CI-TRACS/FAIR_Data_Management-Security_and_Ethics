@@ -14,7 +14,6 @@ keypoints:
 - "Open Science increases transparency in research"
 - "Publicly funded science should be publicly available"
 ---
-(4 min teaching)
 
 Science works best by exchanging ideas and building on them. Most efficient science involves both questions and
 experiments being made as fully informed as possible, which requires the free exchange of data and information.
@@ -100,7 +99,7 @@ the open best practices.
 * **Citizen science:** Citizen participation of various stages of research
   process from project funding to collecting and analysing data.
 
-> ## Exercise 1: Benefits of Open Science (5 min)
+> ## Exercise 1: Benefits of Open Science
 >
 > Being open has other outcomes/consequences beyond giving the free access to information.
 > For example, Open educational resources:
@@ -171,7 +170,7 @@ the open best practices.
 > {: .solution}
 {: .challenge}
 
-### Motivation: Money (8 min teaching)
+### Motivation: Money
 
 One has to consider the moral objectives that
 accompany the research/publication process: charities/taxpayers pay to fund research, these then pay again to access the
@@ -242,7 +241,7 @@ cycle.
 ### Barriers and risks of OS movement:
 
 
-> ## Exercise 2: Why we are not doing Open Science already (4 min)
+> ## Exercise 2: Why we are not doing Open Science already 
 >
 > Discuss Open Science barriers, mention the reasons for not already being open:
 >
@@ -260,7 +259,6 @@ cycle.
 > {: .solution}
 {: .discussion}
 
-(4 min teaching)
 
 It may seem obvious that we should adopt open science practices, but there are associated challenges with doing so.
 
