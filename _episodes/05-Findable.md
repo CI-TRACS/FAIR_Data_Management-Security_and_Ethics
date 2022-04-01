@@ -120,29 +120,23 @@ Technische Informationsbibliothek (TIB) (conducted by engage AG) (2017): Questio
 -- 30% cannot see a benefit from a DOI
 
 ## Choosing the right repository
+Some things to check:
+- Ask your colleagues & collaborators
+- determining the right repo for your research
+- That data are kept safe in a secure environment and data are regularly backed up and preserved (long-term) for future use
+- Data can be easily discovered by search engines and included in online catalogues
+- Intellectual property rights and licencing of data are managed
+- Access to data can be administered and usage monitored
+- That visibility of data can be enhanced to enable more use and citation
 
-Ask your colleagues & collaborators
-Look for institutional repository at your own institution
-
-determining the right repo for your research
-data are kept safe in a secure environment
-data are regularly backed up and preserved (long-term) for future use
-data can be easily discovered by search engines and included in online catalogues
-intellectual property rights and licencing of data are managed
-access to data can be administered and usage monitored
-the visibility of data can be enhanced
-enables more use and citation
-citation of data increases researchers scientific reputation
-Decision for or against a specific repository depends on various criteria, e.g.
-Data quality
-Discipline
-Institutional requirements
-Reputation (researcher and/or repository)
-Visibility of research
-Legal terms and conditions
-Data value (FAIR Principles)
-Exit strategy (tested?)
-Certificate (based only on documents?)
+The decision for or against a specific repository depends on various criteria, e.g.
+- Data quality
+- Discipline
+- Institutional requirements
+- Reputation (researcher and/or repository)
+- Visibility of research
+- Legal terms and conditions
+- Data value (FAIR Principles)
 
 Some recommendations:
 → look for the usage of PIDs
