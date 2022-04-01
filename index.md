@@ -20,7 +20,7 @@ Bjarne Bartlett - Cyberinfrastructure Graduate Assistant - Molecular Biosciences
 ## Acknowledgements:
 
 Some of the materials presented today have been derived from other workhsop efforts in FAIR:
-* FAIR in (biological) practice  - https://carpentries-incubator.github.io/fair-bio-practice/06-being-precise/index.html
+* FAIR in (biological) practice  - https://carpentries-incubator.github.io/fair-bio-practice/
 * FAIR data for climate sciences -  https://esciencecenter-digital-skills.github.io/Lesson-FAIR-Data-Climate/
 
 ## Funding provided by:
