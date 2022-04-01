@@ -14,7 +14,6 @@ keypoints:
 - "For data use Creative Commons Attribution (CC BY) license"
 - "For code use open source licenses such as MIT, BSD, or Apache license"
 ---
-(13 min teaching)
 
 ## Open Science and Intellectual property
 
