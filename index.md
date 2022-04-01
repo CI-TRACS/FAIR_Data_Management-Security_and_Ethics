@@ -13,8 +13,8 @@ To get the most out of this worskshop attendees should:
 
 ## Presenters Today:
 
-Sean Cleveland Ph.D. - Cyberinfrastructure Research Scientist - Information Technology Services - University of Hawaii - System
-Bjarne Bartlett - Cyberinfrastructure Graduate Assistant - Molecular Biosciences & Bioengineering - University of Hawaii - System
+* Sean Cleveland Ph.D. - Cyberinfrastructure Research Scientist - Information Technology Services - University of Hawaii - System
+* Bjarne Bartlett - Cyberinfrastructure Graduate Assistant - Molecular Biosciences & Bioengineering - University of Hawaii - System
 
 
 ## Acknowledgements:
