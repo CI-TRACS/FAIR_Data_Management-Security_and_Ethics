@@ -130,7 +130,7 @@ continuously** throughout the project.
 
 
 
-> ## Exercise 1: Identifying metadata types (4 min)
+> ## Exercise 6: Identifying metadata types (4 min)
 > Here we have an excel spreadsheet that contains project metadata for
 > a made-up experiment of plant metabolites
 > ![Metadata in data table example](../fig/04-metadatafull_spreadsheet.png)

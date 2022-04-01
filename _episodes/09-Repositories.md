@@ -37,7 +37,7 @@ Research outputs should be submitted to discipline/domain-specific repositories 
 Research data repositories are a key resource to help in data FAIRification as they
 assure Findability and Accessibility.
 
-> ## Exercise 1: Public general record (8 min)
+> ## Exercise 9: Public general record (8 min)
 >
 > Have a look at the following record for data set in Hydroshare repository:
 > [Hydroshare](http://www.hydroshare.org/resource/96310f82dd5247ba8201955750093923).
@@ -108,7 +108,7 @@ So how do you go about finding a repository:
 - Check [Fairsharing recommendations](https://fairsharing.org/recommendations/?q=)
 	- alternatively, check the [Registry of research data repositories - re3data](https://www.re3data.org/)
 
-> ## Exercise 9: Finding a repository (5 min + 4 min discussion).
+> ## Exercise 10: Finding a repository (5 min + 4 min discussion).
 >
 > a) Find a repo for genomics data.  
 > b) Find a repo for microscopy data.  
