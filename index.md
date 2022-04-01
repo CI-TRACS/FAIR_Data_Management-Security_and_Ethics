@@ -4,14 +4,12 @@ root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
 
-# FAIR Data Management, Security, and Ethics: How to use and share public data according to FAIR principles.
-
 Attendee will learn about FAIR data and practice these concepts using Hydroshare. Attendees will learn how to use Hydroshare's REST API to  process data as well as basic information on security and licensing.
 
 To get the most out of this worskshop attendees should:
 
-Have a web browser
-Have a Hydroshare account
+* Have a web browser
+* Have a Hydroshare account
 
 ## Presenters Today:
 
@@ -34,10 +32,5 @@ CyberInsfrastructure TRaining to Advance Climate Science (CI-TRACS) NSF #2118222
 
 {% comment %} This is a comment in Liquid {% endcomment %}
 
-> ## Prerequisites
-> Modern web browser
-> Hydroshare account
-
-{: .prereq}
 
 {% include links.md %}
