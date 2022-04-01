@@ -202,8 +202,6 @@ Funding bodies are also becoming big supporters of Open Science.
 We can see with the example of Open Access, that once enforced by funders (*the stick*)
 there is a wide adoption. But what about the personal motivators, *the carrots*.
 
-(3 min teaching)
-
 The main difference between the public benefits of Open Science practices
 and the personal motivators of outputs creators, that the public can
 benefit almost instantly from the open resources.
