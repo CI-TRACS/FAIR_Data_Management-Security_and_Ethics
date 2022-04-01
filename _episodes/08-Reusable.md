@@ -177,3 +177,5 @@ In groups of 2-3 discuss and note down;
 - Have you tried replicating an experiment, yours or someone else? What challenges did you face?
 
 Adapted from: Library Carpentry. September 2019. https://librarycarpentry.org/lc-fair-research.
+
+{% include links.md %}
