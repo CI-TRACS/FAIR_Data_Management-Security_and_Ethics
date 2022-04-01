@@ -17,8 +17,8 @@ keypoints:
 ---
 
 > ## Exercise 6: Thanks, but no thanks!
-> * In groups discuss--have you ever received data you couldn’t use? Why or why not?
-> * Have you tried replicating an experiment, yours or someone else? What challenges did you face?
+> - In groups discuss--have you ever received data you couldn’t use? Why or why not?
+> - Have you tried replicating an experiment, yours or someone else? What challenges did you face?
 > > ## Solution
 > > Time to share some examples!
 > {: .solution}
