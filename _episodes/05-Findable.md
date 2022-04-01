@@ -12,7 +12,9 @@ objectives:
 - "Understand how and where to find data discovery platforms"
 - "Articulate the role of data repositories in enabling findable data"
 keypoints:
-- "First key point."
+- "Findable, means findable long-term. This requires persistent identifiers (PIDs)."
+- "DOIs are one of more common PIDs and can be used to persistently identify software and datasets."
+
 ---
 
 > ## For data & software to be findable:  
@@ -97,7 +99,7 @@ https://blog.datacite.org/citation-analysis-scholix-rda/
 
 
 ## Provenance?
-Provenance means validation & credibility – a researcher should comply to good scientific practices and be sure about what should get a PID (and what not).
+Provenance refers to the data lineage (inputs, entitites, systems, etc.) that ultimately impact validation & credibility. A researcher should comply to good scientific practices and be sure about what should get a PID (and what not).
 Metadata is central to visibility and citability – metadata behind a PID should be provided with consideration.
 Policies behind a PID system ensure persistence in the WWW - point. At least metadata will be available for a long time.
 Machine readability will be an essential part of future discoverability – resources should be checked and formats should be adjusted (as far possible).
@@ -108,7 +110,7 @@ Metrics (e.g. altmetrics) are supported by PID systems.
 
 According to:
 
-Technische Informationsbibliothek (TIB) (conducted by engage AG) (2017): Questionnaire and Dataset of the TIB Survey 2017 on information procurment and pubishing behaviour of researchers in the natural sciences and engineering. Technische Informationsbibliothek (TIB). DOI: [https://doi.org/10.22000/54](https://doi.org/10.22000/54)
+Technische Informationsbibliothek (TIB) (conducted by engage AG) (2017): Questionnaire and Dataset of the TIB Survey 2017 on information procurement and publishing behavior of researchers in the natural sciences and engineering. Technische Informationsbibliothek (TIB). DOI: [https://doi.org/10.22000/54](https://doi.org/10.22000/54)
 
 - responses from 1400 scientists in the natural sciences & engineering (across Germany)
 - 70% of the researchers are using DOIs for journal publications
@@ -123,7 +125,7 @@ Technische Informationsbibliothek (TIB) (conducted by engage AG) (2017): Questio
 Ask your colleagues & collaborators
 Look for institutional repository at your own institution
 
-determining the right repo for your reseearch
+determining the right repo for your research
 data are kept safe in a secure environment
 data are regularly backed up and preserved (long-term) for future use
 data can be easily discovered by search engines and included in online catalogues
@@ -188,4 +190,5 @@ Candela, L. , Castelli, D. , Manghi, P. and Tani, A. (2015), Data Journals: A Su
 
 
 Adapted from: Library Carpentry. September 2019. https://librarycarpentry.org/lc-fair-research.
+
 {% include links.md %}
