@@ -90,3 +90,11 @@ that you can use right away. In fact, you might already be using some of them
 without realizing it. NetCDF files, for example, already implement some of the
 FAIR principles around data modeling. But sometimes you need to find your own
 way.
+
+> ## Attribution
+>
+> Content of this episode was adapted from:
+> * @@(https://esciencecenter-digital-skills.github.io/Lesson-FAIR-Data-Climate/)
+{: .callout}
+
+{% include links.md %}
