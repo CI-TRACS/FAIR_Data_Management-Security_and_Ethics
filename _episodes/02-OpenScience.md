@@ -1,7 +1,7 @@
 ---
 title: "Open Science"
-teaching: 37
-exercises: 21
+teaching: 8
+exercises: 4
 questions:
 - "What is Open Science?"
 - "How can I benefit from Open Science?"
@@ -14,7 +14,7 @@ keypoints:
 - "Open Science increases transparency in research"
 - "Publicly funded science should be publicly available"
 ---
-(16 min teaching)
+(4 min teaching)
 
 Science works best by exchanging ideas and building on them. Most efficient science involves both questions and
 experiments being made as fully informed as possible, which requires the free exchange of data and information.
@@ -90,12 +90,12 @@ the open best practices.
 
 * **Open Peer Review:** A system where peer review reports are published alongside the body of work. This can include
   reviewers' reports, correspondence between parties involved, rebuttals, editorial decisions etc...
-  
+
 * **Citizens Science:** Lay people become involved in scientific research, most commonly in data collection or image analysis. Platforms such as [zooniverse.org](https://www.zooniverse.org/) help connect projects with lay people interested in playing an active role in research, which  can help generate and/or process data which would otherwise be unachievable by one single person.
 
 * **Scientific social networks:** Networks of researchers, which often meet locally in teams, but are also connected online, foster open discussions on scientific issues. Online, many people commonly use traditional social media platforms for this, such as Twitter, Instagram, various sub-reddits, discussion channels on Slack/Discord etc..., although there are also more dedicated spaces such as [researchgate.net](https://www.researchgate.net/).
 
-* **Open Education resources:** Educational materials that are free for anyone to access and use to learn from. These can be anything from talks, instructional videos, and explanations posted on video hosting websites (e.g. YouTube), to entire digital textbooks written and then published freely online. 
+* **Open Education resources:** Educational materials that are free for anyone to access and use to learn from. These can be anything from talks, instructional videos, and explanations posted on video hosting websites (e.g. YouTube), to entire digital textbooks written and then published freely online.
 
 * **Citizen science:** Citizen participation of various stages of research
   process from project funding to collecting and analysing data.
@@ -242,7 +242,7 @@ cycle.
 ### Barriers and risks of OS movement:
 
 
-> ## Exercise 3: Why we are not doing Open Science already (4 min)
+> ## Exercise 2: Why we are not doing Open Science already (4 min)
 >
 > Discuss Open Science barriers, mention the reasons for not already being open:
 >
@@ -260,7 +260,7 @@ cycle.
 > {: .solution}
 {: .discussion}
 
-(9 min teaching)
+(4 min teaching)
 
 It may seem obvious that we should adopt open science practices, but there are associated challenges with doing so.
 

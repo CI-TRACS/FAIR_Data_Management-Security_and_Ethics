@@ -1,6 +1,6 @@
 ---
 title: "Public repositories"
-teaching: 26
+teaching: 8
 exercises: 39
 questions:
 - "Where can I deposit datasets?"
@@ -18,7 +18,7 @@ keypoints:
 
 ## What are research data repositories?
 (13 min teaching)
-Research data repositories are online repositories that enable the preservation, curation and publication of research 'products'. These repositories are mainly used to deposit research 'data'. However, the scope of the repositories is broader as we can also deposit/publish 'code' or 'protocols' (as we saw with protocols.io). 
+Research data repositories are online repositories that enable the preservation, curation and publication of research 'products'. These repositories are mainly used to deposit research 'data'. However, the scope of the repositories is broader as we can also deposit/publish 'code' or 'protocols' (as we saw with protocols.io).
 
 There are general "data agnostic" repositories, for example:
 * [Dryad](http://datadryad.org),
@@ -32,13 +32,13 @@ Or domain specific, for example:
 * [MetaboLights](https://www.ebi.ac.uk/metabolights/) metabolomics data
 * [GitHub](https://github.com/) for code.
 * [Hydroshare](https://www.hydroshare.org/) for water data.
- 
+
 Research outputs should be submitted to discipline/domain-specific repositories whenever it is possible. When such a resource does not exist, data should be submitted to a 'general' repository.
 Research data repositories are a key resource to help in data FAIRification as they
 assure Findability and Accessibility.
 
 > ## Exercise 1: Public general record (8 min)
-> 
+>
 > Have a look at the following record for data set in Hydroshare repository:
 > [Hydroshare](http://www.hydroshare.org/resource/96310f82dd5247ba8201955750093923).
 > What elements make it FAIR?    
@@ -73,7 +73,7 @@ assure Findability and Accessibility.
 (4 min discussion)
 
 > ## Minimal data set
-> Minimal data set to consist of the data required to replicate all study findings reported 
+> Minimal data set to consist of the data required to replicate all study findings reported
 > in the article, as well as related metadata and methods.
 >
 > * The values behind the means, standard deviations and other measures reported;
@@ -104,7 +104,7 @@ So how do you go about finding a repository:
 	- [NERC](https://nerc.ukri.org/research/sites/environmental-data-service-eds/policy/)
 	- [Royal Society](https://royalsociety.org/journals/ethics-policies/data-sharing-mining/)
 	- [Wellcome Open Research](https://wellcomeopenresearch.org/for-authors/data-guidelines)  
-   
+
 - Check [Fairsharing recommendations](https://fairsharing.org/recommendations/?q=)
 	- alternatively, check the [Registry of research data repositories - re3data](https://www.re3data.org/)
 
@@ -129,12 +129,12 @@ A list of UoE BioRDM's recommended data repositories can be found [here](https:/
 > Finding a repository first may help in deciding what metadata to collect and how!  
 >   
 {: .callout}  
-  
+
 > ## Extra features
 > It is also worth considering that some repositories offer extra features, such as running simulations or providing visualisation. For example, [FAIRDOMhub](https://fairdomhub.org/) can run model simulations and has project structures. Do not forget to take this into account when choosing your repository. Extra features might come in handy.  
 >  
 {: .callout}  
-  
+
 > ## Can GitHub be cited?  
 > To make your code repositories easier to reference in academic literature, you can create persistent identifiers for them. Particularly, you can use the data archiving tool in Zenodo to archive a GitHub repository and issue a DOI for it.  
 >  
@@ -145,7 +145,7 @@ You can evaluate the repositories by following this criteria:
 - who is behind it, what is its funding
 - quality of interaction: is the interaction for purposes of data deposit or reuse efficient, effective and satisfactory for you?
 - take-up and impact: what can I put in it? Is anyone else using it? Will others be able to find stuff deposited in it? Is the repository linked to other data repositories so I don't have to search tehre as well? Can anyone reuse the data? Can others cite the data, and will depositing boost citations to related papers?  
-- policy and process: does it help you meet community standards of good practice and comply with policies stipulating data deposit? 
+- policy and process: does it help you meet community standards of good practice and comply with policies stipulating data deposit?
 
 An interesting take can be found at Peter Murray-Rust's blog post [Criteria for succesful repositories](https://blogs.ch.cam.ac.uk/pmr/2011/08/19/criteria-for-successful-repositories/).
 

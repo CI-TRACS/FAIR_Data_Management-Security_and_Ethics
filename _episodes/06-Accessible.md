@@ -1,6 +1,6 @@
 ---
 title: "Accessible"
-teaching: 0
+teaching: 8
 exercises: 0
 questions:
 - "What is a protocol?"
@@ -50,22 +50,24 @@ Thankfully, a number of research systems are now integrating ORCID into their au
 ![Hydroshare Registration](../fig/hydrosharesignup.png)
 
 ## Understanding whether something is open, free, and universally implementable
-ORCID features a [principles page](https://orcid.org/about/what-is-orcid/principles) where we can assess where it lies on the spectrum of these criteria. Can you identify statements that speak to these conditions: open, free, and universally implemetable?
+> ## Exercise 5
+>ORCID features a [principles page](https://orcid.org/about/what-is-orcid/principles) where we can assess where it lies on the spectrum of these criteria. Can you identify statements that speak to these conditions: open, free, and universally implemetable?
+> > ## Solution
+> > * ORCID is a non-profit that collects fees from its members to sustain its operations
+> [Creative Commons CC0 1.0 Universal (CC0)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal) license releases data into the public domain, or otherwise grants permission to use it for any purpose
+> > * It is open to any organization and transcends borders
+> > Followup Questions:
+> > - Where can you download the freely available data?
+> > - How does ORCID solicit community input outside of its governance?
+> > - Are the tools used to create, read, update, delete ORCID data open?
+> {: .solution}
+{: .challenge}
 
-Answers:
-- ORCID is a non-profit that collects fees from its members to sustain its operations
-- [Creative Commons CC0 1.0 Universal (CC0)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal) license releases data into the public domain, or otherwise grants permission to use it for any purpose
-- It is open to any organization and transcends borders
-
-Challenge Questions:
-- Where can you download the freely available data?
-- How does ORCID solicit community input outside of its governance?
-- Are the tools used to create, read, update, delete ORCID data open?
 
 
 ## Tombstones, a very grave subject
 
-There are a variety of reasons why a placeholder with metadata or tombstone of the removed research object exists including but not limited to staff removal, spam, request from owner, data center does not exist is still, etc. A tombstone page is needed when data and software is no longer accessible. A tombstone page communicates that the record is gone, why it is gone, and in case you really must know, there is a copy of the metadata for the record. A tombstone page should include: DOI, date of deaccession, reason for deaccession, message explaining the data center's policies, and a message that a copy of the metadata is kept for record keeping purposes as well as checksums of the files. Zenodo offers us further [explanation of the reasoning behind tombstone pages](https://github.com/zenodo/zenodo/issues/160).
+There are a variety of reasons why a placeholder with metadata or tombstone of the removed research object exists including but not limited to staff removal, spam, request from owner, data center does not exist is still, etc. A tombstone page is needed when data and software is no longer accessible. A tombstone page communicates that the record is gone, why it is gone, and in case you really must know, there is a copy of the metadata for the record. A tombstone page should include: DOI, date of deaccession, reason for deaccession, message explaining the data center's policies, and a message that a copy of the metadata is kept for record keeping purposes as well as checksums of the files.
 
 DataCite offers [statistics](https://stats.datacite.org/) where the failure to resolve DOIs after a certain number of attempts is reported (see [DataCite statistics support page](https://support.datacite.org/docs/datacite-statistics)for more information). In the case of Zenodo and the GitHub issue above, the hidden field reveals thousands of records that are a result of spam.
 
@@ -76,3 +78,5 @@ If a DOI is no longer available and the data center does not have the resources 
 **See the following tombstone examples:**
 - Zenodo tombstone: [https://zenodo.org/record/1098445](https://zenodo.org/record/1098445)
 - Figshare tombstone: [https://figshare.com/articles/Climate_Change/1381402](https://figshare.com/articles/Climate_Change/1381402)
+
+Adapted from: Library Carpentry. September 2019. https://librarycarpentry.org/lc-fair-research.

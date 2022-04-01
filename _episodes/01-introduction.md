@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-teaching: 22
+teaching: 8
 exercises: 0
 questions:
 - "Who are we and what are we going to learn?"

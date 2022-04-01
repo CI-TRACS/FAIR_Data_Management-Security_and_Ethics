@@ -1,6 +1,6 @@
 ---
 title: "Reusable"
-teaching: 0
+teaching: 8
 exercises: 0
 questions:
 - "What makes data reusable?"
@@ -55,7 +55,7 @@ A file name should be unique, consistent and descriptive. This allows for increa
 #### Don’ts:
 - Avoid naming files/folders with individual persons names as it impedes handover and data sharing.
 - Avoid long names
-- Avoid using spaces, dots, commas and special characters (e.g. ~ ! @ # $ % ^ & * ( ) ` ; < > ? , [ ] { } ‘ “)
+- Avoid using spaces, dots, commas and special characters (e.g. ~ ! @ # $ % ^ & * ( ) ; < > ? , [ ] { })
 - Avoid repetition for ex. Directory name Electron_Microscopy_Images, then you don’t need to name the files ELN_MI_Img_20200101.img
 
 #### Examples:
@@ -175,3 +175,5 @@ DCC How to license research data https://www.dcc.ac.uk/guidance/how-guides/licen
 In groups of 2-3 discuss and note down;
 - Have you ever received data you couldn’t use? & why not?
 - Have you tried replicating an experiment, yours or someone else? What challenges did you face?
+
+Adapted from: Library Carpentry. September 2019. https://librarycarpentry.org/lc-fair-research.

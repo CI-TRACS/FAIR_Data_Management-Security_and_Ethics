@@ -1,7 +1,7 @@
 ---
 title: "Intellectual Property, Licensing, and Openness"
-teaching: 13
-exercises: 7
+teaching: 8
+exercises: 2
 questions:
 - "What is intellectual property?"
 - "Why should I consider IP in Open Science?"
@@ -31,14 +31,14 @@ keypoints:
 > information related to the invention completely
 > **prevents the inventor from getting a patent**!
 >
-> You can benefit from new collaborations, industrial partnerships, and consultations which are acquired by openness. 
+> You can benefit from new collaborations, industrial partnerships, and consultations which are acquired by openness.
 > This can yield greater benefit than from patent-related royalties.
 >
 {: .callout}
 
 > ## (Optional) Intellectual property protection
 >
-> You can use a patent to protect a non-obvious (*technical*) 
+> You can use a patent to protect a non-obvious (*technical*)
 > invention that provides "technical contribution" or solves a "technical problem".
 > It gives you the right to take legal action against anyone who
 > makes, uses, sells or imports it without your permission.
@@ -46,7 +46,7 @@ keypoints:
 > Patents are granted only for inventions that are
 > **new and were not known to the public** in any form.
 > Publishing in a journal or presenting in a conference
-> information related to the invention 
+> information related to the invention
 > **prevents the inventor from getting a patent**!
 >
 > In principle, software can be patented.
@@ -58,16 +58,16 @@ keypoints:
 >
 > Data cannot be patented, and in principle, it cannot be copyrighted.
 > **It is not possible to copyright facts!**
-> 
-> Facts are not patentable, and since machine learning algorithms 
-> like neural networks are basically mathematical methods, they 
-> are exempt from protection. However, applied to a certain 
-> problem, an algorithm may become part of a patent. *IF framed it in 
-> the right way, patenting an algorithm is possible. 
-> For example, a deep learning algorithm generating a certain kind of 
-> audio may be eligible. But that would not prevent the network from 
+>
+> Facts are not patentable, and since machine learning algorithms
+> like neural networks are basically mathematical methods, they
+> are exempt from protection. However, applied to a certain
+> problem, an algorithm may become part of a patent. *IF framed it in
+> the right way, patenting an algorithm is possible.
+> For example, a deep learning algorithm generating a certain kind of
+> audio may be eligible. But that would not prevent the network from
 > being applied to any other problem.*
-> 
+>
 > However, how data are collated and presented
 > (especially if it is a database),
 > can have a layer of copyright protection.
@@ -78,11 +78,11 @@ keypoints:
 > better lawyers.
 >
 > After:
-> 
+>
 > [https://www.uspto.gov/patents/basics](https://www.uspto.gov/patents/basics)
 {: .callout}
 
-> ## Exercise 1: Checking common licenses (5 min + discussion)
+> ## Exercise 3: Checking common licenses (2 min + discussion)
 > 1. Open CC BY license summary [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 is it clear how you can use the data under this licence and why it is popular in academia?
 >
@@ -92,7 +92,7 @@ is it clear what you can do with software code under this licence?
 > 3. Compare the full wording of CC BY
 [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode)
 can you guess why the MIT licence is currently the most popular for open source code?
-> 
+>
 >> ## Solution
 >>
 >> 1. CC BY license states material can be reproduced, shared, in whole or in part, unless where exceptions and limitations are stated. Attributions must be made to the Licensor.

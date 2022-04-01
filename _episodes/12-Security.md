@@ -1,6 +1,6 @@
 ---
 title: "Security"
-teaching: 0
+teaching: 8
 exercises: 0
 questions:
 - "What measures will you take to secure your data?"
@@ -11,9 +11,9 @@ keypoints:
 - "Implement these steps to avoid data loss"
 ---
 
-Today, we will approach two different aspcets of data security. 
-- Securing data from hostile people and groups that would compromise the system. 
-- Securing data from general threats such as power outages, fires, floods, and hardware failure. 
+Today, we will approach two different aspcets of data security.
+- Securing data from hostile people and groups that would compromise the system.
+- Securing data from general threats such as power outages, fires, floods, and hardware failure.
 
 Securing data from hostile groups:
 Types of attacks
@@ -35,9 +35,9 @@ Types of attacks
 
 7. *Password Attacks:* With the right password, a cyber attacker has access to a wealth of information. Social engineering is a type of password attack that Data Insider defines as “a strategy cyber attackers use that relies heavily on human interaction and often involves tricking people into breaking standard security practices.” Other types of password attacks include accessing a password database or outright guessing.
 
-*An Arms Race* 
+*An Arms Race*
 
-Cyber security practices continue to evolve as the internet and digitally dependent operations develop and change. Data storage on devices such as laptops and cellphones makes it easier for cyber attackers to find an entry point into a network through a personal device. For example, in the May 2019 book Exploding Data: Reclaiming Our Cyber Security in the Digital Age, former U.S. Secretary of Homeland Security Michael Chertoff warns of a pervasive exposure of individuals’ personal information, which has become increasingly vulnerable to cyber attacks. Increase in both *data use* and *data sharing* are contributing to cybersecurity threats. Volume and connectedness both create new areas to exploit. 
+Cyber security practices continue to evolve as the internet and digitally dependent operations develop and change. Data storage on devices such as laptops and cellphones makes it easier for cyber attackers to find an entry point into a network through a personal device. For example, in the May 2019 book Exploding Data: Reclaiming Our Cyber Security in the Digital Age, former U.S. Secretary of Homeland Security Michael Chertoff warns of a pervasive exposure of individuals’ personal information, which has become increasingly vulnerable to cyber attacks. Increase in both *data use* and *data sharing* are contributing to cybersecurity threats. Volume and connectedness both create new areas to exploit.
 
 Strategies to Prevent Hostile Groups from Stealing Data:
 - Complex Passwords
@@ -45,13 +45,13 @@ Strategies to Prevent Hostile Groups from Stealing Data:
 - Choosing a Reputible Data Repository
 
 Securing Data from Other Natural Events
-Data loss can happen for many reasons such as fires, floods, and hardware failure. The main strategy for preventing this is data redundancy, where data is stored in multiple locations. 
+Data loss can happen for many reasons such as fires, floods, and hardware failure. The main strategy for preventing this is data redundancy, where data is stored in multiple locations.
 
-Large datasets, will often span multiple hard disks as we approach 1 terabit per square inch (though to be the superparamagnetic limit) of storage density in magnetic hard drives with increasing data size. Storage arrays are ften redundent, redundancy is often created using various types of RAID configurations. 
+Large datasets, will often span multiple hard disks as we approach 1 terabit per square inch (though to be the superparamagnetic limit) of storage density in magnetic hard drives with increasing data size. Storage arrays are ften redundent, redundancy is often created using various types of RAID configurations.
 - *Raid 1* is an exact copy (or mirror) of a set of data on two or more disks.
 - *Raid 5* consists of block-level striping with distributed parity and requires that all drives but one be present to operate. Upon failure of a single drive, subsequent reads can be calculated from the distributed parity such that no data is lost. RAID 5 requires at least three disks.
 
-Small datasets and files are often stored on laptops and computer hard drives. While storage on these devices is more reliable than ever, the data could be lost in the event of damage to the computer. *Data storage is affordable, recreating data is not! Important files should never be in only 1 place.* Cloud storage can be useful for this. Some cloud storage services: 
+Small datasets and files are often stored on laptops and computer hard drives. While storage on these devices is more reliable than ever, the data could be lost in the event of damage to the computer. *Data storage is affordable, recreating data is not! Important files should never be in only 1 place.* Cloud storage can be useful for this. Some cloud storage services:
 - Dropbox
 - GSuite
 - OneDrive
@@ -60,7 +60,7 @@ Small datasets and files are often stored on laptops and computer hard drives. W
 > ## Resources
 > [Attribution](https://onlinedegrees.und.edu/blog/types-of-cyber-security-threats/)
 > [RAID](https://en.wikipedia.org/wiki/Standard_RAID_levels)
-> The BioRDM team has a lot of information about the here taught course material on 
+> The BioRDM team has a lot of information about the here taught course material on
 > their [BioRDM wiki](https://www.wiki.ed.ac.uk/display/RDMS/).
 {: .callout}
 

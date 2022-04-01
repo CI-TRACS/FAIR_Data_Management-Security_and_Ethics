@@ -1,6 +1,6 @@
 ---
 title: "Exercises"
-teaching: 0
+teaching: 8
 exercises: 10
 questions:
 - "What makes this dataset FAIR?"

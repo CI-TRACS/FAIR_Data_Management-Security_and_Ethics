@@ -1,6 +1,6 @@
 ---
 title: "Metadata"
-teaching: 11
+teaching: 8
 exercises: 14
 questions:
 - "What is metadata?"

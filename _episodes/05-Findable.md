@@ -1,7 +1,7 @@
 ---
 title: "Findable"
-teaching: 0
-exercises: 0
+teaching: 8
+exercises: 2
 questions:
 - "What is a persistent identifier or PID?"
 - "What types of PIDs are there?"
@@ -46,17 +46,17 @@ A DOI has three main parts:
 - Prefix which is unique to the registrant or member
 - Suffix, a unique identifier assigned locally by the registrant to an object
 
-![Anatomy of a DOI](../fig/anatomy-of-a-doi.jpeg) 
+![Anatomy of a DOI](../fig/anatomy-of-a-doi.jpeg)
 
 In the example above, the prefix is used by the Australian National Data Service (ANDS) now called the Australia Research Data Commons (ARDC) and the suffix is a unique identifier for an object at Griffith University. DataCite provides DOI [display guidance](https://support.datacite.org/docs/datacite-doi-display-guidelines
 ) so that they are easy to recognize and use, for both humans and machines.
 
-> ## Challenge
-> arXiv is a preprint repository for physics, math, computer science and related disciplines. 
-> It allows researchers to share and access their work before it is formally published. 
-> Visit the arXiv new papers page for [Machine Learning](https://arxiv.org/list/cs.LG/recent). 
-> Choose any paper by clicking on the 'pdf' link next to it. Now use <kbd>control</kbd> + <kbd>F</kbd> or <kbd>command</kbd> + <kbd>F</kbd> and search for 'http'. Did the author use DOIs for their data and software?
-> 
+> ## Exercise 4
+> HydroShare is a data repository for water data from a variety of biological disciplines.
+> It allows researchers to share and access water data for research.
+> Visit the HydroShare resource search at [Discover](https://www.hydroshare.org/search/).
+> Choose any dataset by clicking on the link. Now use <kbd>control</kbd> + <kbd>F</kbd> or <kbd>command</kbd> + <kbd>F</kbd> and search for 'http'. Did the author use DOIs or persistent link from HydroShare for their data and software?
+>
 > > ## Solution
 > > Authors will often link to platforms such as GitHub where they have shared their software and/or they will link to their website where they are hosting the data used in the paper. The danger here is that platforms like GitHub and personal websites are not permanent. Instead, authors can use repositories to deposit and preserve their data and software while minting a DOI. Links to software sharing platforms or personal websites might move but DOIs will always resolve to information about the software and/or data. See DataCite's [Best Practices for a Tombstone Page](https://support.datacite.org/docs/tombstone-pages).
 > {: .solution}
@@ -64,9 +64,9 @@ In the example above, the prefix is used by the Australian National Data Service
 
 ## Rich Metadata
 
-More and more services are using common schemas such as [DataCite's Metadata Schema](https://schema.datacite.org) or [Dublin Core](https://www.dublincore.org) to foster greater use and discovery. A schema provides an overall structure for the metadata and describes core metadata properties. While DataCite's Metadata Schema is more general, there are discipline specific schemas such as [Data Documentation Initiative (DDI) and Darwin Core](https://en.wikipedia.org/wiki/Metadata_standard). 
+More and more services are using common schemas such as [DataCite's Metadata Schema](https://schema.datacite.org) or [Dublin Core](https://www.dublincore.org) to foster greater use and discovery. A schema provides an overall structure for the metadata and describes core metadata properties. While DataCite's Metadata Schema is more general, there are discipline specific schemas such as [Data Documentation Initiative (DDI) and Darwin Core](https://en.wikipedia.org/wiki/Metadata_standard).
 
-Thanks to schemas, the process of adding metadata has been standardised to some extent but there is still room for error. For instance, DataCite [reports](https://blog.datacite.org/citation-analysis-scholix-rda/) that links between papers and data are still very low. Publishers and authors are missing this opportunity. 
+Thanks to schemas, the process of adding metadata has been standardized to some extent but there is still room for error. For instance, DataCite [reports](https://blog.datacite.org/citation-analysis-scholix-rda/) that links between papers and data are still very low. Publishers and authors are missing this opportunity.
 
 Challenges:
 Automatic ORCID profile update when DOI is minted
@@ -83,9 +83,9 @@ Instrument IDs
 Ship cruises IDs
 Physical sample IDs,
 DMP IDs…
-videos 
-images 
-3D models 
+videos
+images
+3D models
 grey literature
 
 ![Connecting Research Outputs](../fig/datacite-arxiv-crossref.png)
@@ -104,7 +104,7 @@ Machine readability will be an essential part of future discoverability – reso
 Metrics (e.g. altmetrics) are supported by PID systems.
 
 
-## Publishing behaviour of researchers 
+## Publishing behaviour of researchers
 
 According to:
 
@@ -113,7 +113,7 @@ Technische Informationsbibliothek (TIB) (conducted by engage AG) (2017): Questio
 - responses from 1400 scientists in the natural sciences & engineering (across Germany)
 - 70% of the researchers are using DOIs for journal publications
 - less than 10% use DOIs for research data
--- 56% answered that they don’t know about the option to use DOIs for other publications (datasets, conference papers etc.) 
+-- 56% answered that they don’t know about the option to use DOIs for other publications (datasets, conference papers etc.)
 -- 57% stated no need for DOI counselling services
 -- 40% of the questioned researchers need more information
 -- 30% cannot see a benefit from a DOI
@@ -127,13 +127,13 @@ determining the right repo for your reseearch
 data are kept safe in a secure environment
 data are regularly backed up and preserved (long-term) for future use
 data can be easily discovered by search engines and included in online catalogues
-intellectual property rights and licencing of data are managed 
+intellectual property rights and licencing of data are managed
 access to data can be administered and usage monitored
 the visibility of data can be enhanced
 enables more use and citation
 citation of data increases researchers scientific reputation
 Decision for or against a specific repository depends on various criteria, e.g.
-Data quality 
+Data quality
 Discipline
 Institutional requirements
 Reputation (researcher and/or repository)
@@ -161,7 +161,7 @@ https://fairsharing.org/databases/
 
 ## Data Journals
 
-Another method available to researchers to cite and give credit to research data is to author works in data journals or supplemental approaches used by publishers, societies, disciplines, and/or journals. 
+Another method available to researchers to cite and give credit to research data is to author works in data journals or supplemental approaches used by publishers, societies, disciplines, and/or journals.
 
 Articles in data journals allow authors to:
 - Describe their research data (including information about process, qualities, etc)
@@ -183,19 +183,8 @@ Candela, L. , Castelli, D. , Manghi, P. and Tani, A. (2015), Data Journals: A Su
 
 > ## How does your discipline share data
 >
-> Does your discipline have a data journal? Or some other mechanism to share data? For example, the American Astronomical Society (AAS) via the publisher IOP Physics offers a [supplment series](http://iopscience.iop.org/journal/0067-0049/page/article-data) as a way for astronomers to publish data. 
+> Does your discipline have a data journal? Or some other mechanism to share data? For example, the American Astronomical Society (AAS) via the publisher IOP Physics offers a [supplement series](http://iopscience.iop.org/journal/0067-0049/page/article-data) as a way for astronomers to publish data.
 {: .discussion}
 
 
-List recent publications re: benefits of data sharing / software sharing
-
-Questions:
-Is FAIRSharing vs re3data comparison slide from TIB findability slides needed here?
-Should we include recent thread about handle system vs DOIs in IRs (costs)
-Zenodo-GitHub linking is listed in another episode, right?
-Include guidance for Google schema indexing...
-
-Notes:  
-Note about authors being proactive and working with the journals/societies to improve papers referencing data, software...
-
-Tombstone
+Adapted from: Library Carpentry. September 2019. https://librarycarpentry.org/lc-fair-research.

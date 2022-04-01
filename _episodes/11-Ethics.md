@@ -1,6 +1,6 @@
 ---
 title: "Ethics"
-teaching: 0
+teaching: 8
 exercises: 0
 questions:
 - "What ethical considerations are there when making data public?"
