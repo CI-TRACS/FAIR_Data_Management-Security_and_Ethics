@@ -33,7 +33,7 @@ is our bad timing and lack of planning.
 ![Figure 5.2. Sharing as part of the workflow](../fig/01-sharing_as_part_of_workflow.jpeg)
 *Figure credits: Tomasz Zielinski and Andrés Romanowski from https://carpentries-incubator.github.io/fair-bio-practice/06-being-precise/index.html*
 
-When should you engage in data sharing and open practices?
+## When should you engage in data sharing and open practices?
 * Data management should be done throughout the duration of your project.
 * If you wait till the end, it will take a massive effort on your side and will be more of a burden than a benefit.
 * Taking the time to do effective data management will help you understand your data better and make it easier to find when you need it (for example when you need to write a manuscript or a thesis!).
