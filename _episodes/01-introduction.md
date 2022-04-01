@@ -40,7 +40,7 @@ When should you engage in data sharing and open practices?
 * All the practices that enable others to access and use your outcomes directly
 benefit you and your group
 
-In this workshop we will show discuss how your research outputs can be made readily available for re-use by others.
+In this workshop we will discuss how your research outputs can be made readily available for re-use by others.
 
 
 {% include links.md %}
