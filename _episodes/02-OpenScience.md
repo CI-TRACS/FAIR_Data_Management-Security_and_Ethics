@@ -184,37 +184,13 @@ According to EU report ["Cost-benefit analysis for FAIR research data"](https://
 The goals of Open Science is to make research and research data available to e.g.
 charities/taxpayers who funded this research.
 
-**COAlition S**, a group of national research funding organisations backed by
-the European Commission and the European Research Council, is a big driver trying to get rid of the paywalls that our
-research is sat behind. They announced Plan S, an initiative to make research publications fully free at the point of
-access, meaning that all research funded by public funding bodies must be published Open Access from 2021 onwards.
-
-> ## Open Access (a successful example)
->
-> The majority of larger UK and other countries' funding bodies are now making
-> Open Access publication conditional upon funding.
->
-> The initiative is known as Plan S, which requires *“resulting
-> publications available immediately (without embargoes) and under open licences, either in quality Open Access platforms
-> or journals or through immediate deposit in open repositories that fulfil the necessary conditions.”*
->
-> Exact requirements
-> differ between funding bodies, with the minimum requirement being that a copy be deposited with your home institution.
->
-> Details of funding bodies and their involvement and requirements can be found
-> at [Plan S/cOAlition S](https://www.coalition-s.org/plan-s-funders-implementation/). There is also
-> a [cOAlition S journal checker tool](https://www.coalition-s.org/blog/unboxing-the-journal-checker-tool/) to assess
-> compliance being developed.
-> The [Directory of Open Access Journals (DOAJ)](https://doaj.org/) is a tool to find which journals are Open Access.
->
-{: .callout}
 
 ### Motivation: Reproducibility
 
 The inherited transparency of Open Science and the easy access to data, methods and analysis
-details naturally help to address the Reproducibility crisis. The openness of
+details naturally help to address part of the Reproducibility crisis. The openness of
 scientific communications and of the actual process of evaluation of the research
-(Open Peer Review) increase confidence in the research findings.
+(Open Peer Review) increases confidence in the research findings.
 
 ### Personal motivators
 
@@ -222,7 +198,7 @@ Open Science is advantageous to many parties involved in science (including
 researcher community, funding bodies, the public even journals), which is leading to a push for the widespread adoption of
 Open Science practices.
 
-Large UK funding bodies such as The Wellcome Trust are big supporters of Open Science.
+Funding bodies are also becoming big supporters of Open Science.
 We can see with the example of Open Access, that once enforced by funders (*the stick*)
 there is a wide adoption. But what about the personal motivators, *the carrots*.
 
@@ -287,19 +263,6 @@ Firstly, making outputs readily available and usable to others takes time
 and significant effort. Secondly, there are costs of hosting and storage.
 For example, microscopy datasets reach sizes in terabytes,
 making such data accessible for 10 years involves serious financial commitment.
-
-### Get involved
-
-Thankfully, incentive
-structures are beginning to support Open Science practices:
-
-* Universities signing up to the Declaration on Research
-Assessment (DORA).
-* Wellcome Trust funding proposals that increase Open Science
-* Wellcome Trust asked for description of Open Science activities in the
-grant application
-
-You do not want to be left behind!
 
 
 ## Where to next
