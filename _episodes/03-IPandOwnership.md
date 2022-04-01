@@ -82,7 +82,7 @@ keypoints:
 > [https://www.uspto.gov/patents/basics](https://www.uspto.gov/patents/basics)
 {: .callout}
 
-> ## Exercise 3: Checking common licenses (2 min + discussion)
+> ## Exercise 3: Checking common licenses 
 > 1. Open CC BY license summary [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 is it clear how you can use the data under this licence and why it is popular in academia?
 >
@@ -101,5 +101,10 @@ can you guess why the MIT licence is currently the most popular for open source 
 > {: .solution}
 {: .challenge}
 
+> ## Attribution
+>
+> Content of this episode was adapted from:
+> * @@(https://carpentries-incubator.github.io/fair-bio-practice/)
+{: .callout}
 
 {% include links.md %}
