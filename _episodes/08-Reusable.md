@@ -20,15 +20,6 @@ In groups discuss:
 - Have you ever received data you couldn’t use? Why or why not?
 - Have you tried replicating an experiment, yours or someone else? What challenges did you face?
 
-> ## Exercise 6: Thanks, but no thanks!
-> - In groups discuss--have you ever received data you couldn’t use? Why or why not?
-> - Have you tried replicating an experiment, yours or someone else? What challenges did you face?
-> > ## Solution
-> > Time to share some examples!
-> {: .solution}
-{: .challenge}
-
-
 > ## For data & software to be reusable:
 > R1. (meta)data have a plurality of accurate and relevant attributes  
 >     R1.1 (meta)data are released with a clear and accessible data usage licence  
